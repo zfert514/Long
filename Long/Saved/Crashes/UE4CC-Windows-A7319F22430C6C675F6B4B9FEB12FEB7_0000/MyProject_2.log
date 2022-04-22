@@ -1,0 +1,1866 @@
+﻿Log file open, 04/21/22 23:28:52
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.189274
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz, GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Engine.ini]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Engine.ini]
+[2022.04.22-03.28.52:373][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Engine.ini]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.04.22-03.28.52:373][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.04.22-03.28.52:374][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Engine.ini]
+[2022.04.22-03.28.52:374][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.04.22-03.28.52:374][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.04.22-03.28.52:374][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.04.22-03.28.52:374][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.04.22-03.28.52:374][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.04.22-03.28.52:374][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.04.22-03.28.52:374][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.04.22-03.28.52:374][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.04.22-03.28.52:374][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.04.22-03.28.52:374][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.04.22-03.28.52:374][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.04.22-03.28.52:374][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.04.22-03.28.52:374][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.04.22-03.28.52:374][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.04.22-03.28.52:374][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Engine.ini]
+[2022.04.22-03.28.52:374][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Engine.ini]
+[2022.04.22-03.28.52:387][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.22-03.28.52:387][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.22-03.28.52:387][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.22-03.28.52:387][  0]LogHAL: Display: Platform has ~ 16 GB [17072508928 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.22-03.28.52:387][  0]LogInit: Going up to parent DeviceProfile []
+[2022.04.22-03.28.52:387][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.22-03.28.52:387][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Scalability.ini]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.04.22-03.28.52:388][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Engine.ini]
+[2022.04.22-03.28.52:388][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/zfert/Games/Capstone/Long/Long/Saved/Config/Windows/Editor.ini]
+[2022.04.22-03.28.52:388][  0]LogInit: Computer: PRETTYLADY
+[2022.04.22-03.28.52:388][  0]LogInit: User: zfert
+[2022.04.22-03.28.52:388][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.04.22-03.28.52:388][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.22-03.28.52:388][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.04.22-03.28.52:388][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.22-03.28.52:388][  0]LogMemory: Process Physical Memory: 141.50 MB used, 141.50 MB peak
+[2022.04.22-03.28.52:388][  0]LogMemory: Process Virtual Memory: 129.83 MB used, 129.83 MB peak
+[2022.04.22-03.28.52:388][  0]LogMemory: Physical Memory: 9623.38 MB used,  6658.23 MB free, 16281.61 MB total
+[2022.04.22-03.28.52:388][  0]LogMemory: Virtual Memory: 134207304.00 MB used,  10420.32 MB free, 134217728.00 MB total
+[2022.04.22-03.28.52:391][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.22-03.28.52:416][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.04.22-03.28.52:416][  0]LogInit: Using OS detected language (en-US).
+[2022.04.22-03.28.52:416][  0]LogInit: Using OS detected locale (en-US).
+[2022.04.22-03.28.52:417][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.04.22-03.28.52:532][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.22-03.28.52:543][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.22-03.28.52:550][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.22-03.28.52:550][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.22-03.28.52:623][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.22-03.28.52:623][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.22-03.28.52:623][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.04.22-03.28.52:623][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.22-03.28.52:713][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060' (Feature Level 11_0)
+[2022.04.22-03.28.52:714][  0]LogD3D11RHI:       12142/0/8140 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.04.22-03.28.52:715][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.04.22-03.28.52:715][  0]LogD3D11RHI:       0/0/8140 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.22-03.28.52:715][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.04.22-03.28.52:722][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.22-03.28.52:722][  0]LogD3D11RHI:     GPU DeviceId: 0x2504 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.22-03.28.52:722][  0]LogWindows: EnumDisplayDevices:
+[2022.04.22-03.28.52:722][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1)
+[2022.04.22-03.28.52:722][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:1)
+[2022.04.22-03.28.52:722][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2022.04.22-03.28.52:723][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2022.04.22-03.28.52:723][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.04.22-03.28.52:723][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2022.04.22-03.28.52:723][  0]LogD3D11RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.04.22-03.28.52:723][  0]LogD3D11RHI:      Driver Date: 3-17-2022
+[2022.04.22-03.28.52:723][  0]LogRHI: Texture pool is 8499 MB (70% of 12142 MB)
+[2022.04.22-03.28.52:767][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.22-03.28.52:767][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.22-03.28.52:767][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.22-03.28.52:792][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.22-03.28.52:793][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.04.22-03.28.53:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.04.22-03.28.53:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.22-03.28.53:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.22-03.28.53:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.22-03.28.53:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.22-03.28.53:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.22-03.28.53:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.22-03.28.53:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.22-03.28.53:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.22-03.28.53:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.22-03.28.53:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.22-03.28.53:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.22-03.28.53:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.22-03.28.53:045][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.22-03.28.53:050][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.04.22-03.28.53:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.22-03.28.53:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.22-03.28.53:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.04.22-03.28.53:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.04.22-03.28.53:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.04.22-03.28.53:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.04.22-03.28.53:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.04.22-03.28.53:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.04.22-03.28.53:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.04.22-03.28.53:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.04.22-03.28.53:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.04.22-03.28.53:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.22-03.28.53:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.22-03.28.53:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.04.22-03.28.53:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.22-03.28.53:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.22-03.28.53:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.22-03.28.53:152][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.04.22-03.28.53:156][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.22-03.28.53:196][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.22-03.28.53:196][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (C:/Users/zfert/Games/Capstone/Long/Long/Intermediate/Shaders/WorkingDirectory/25440/).
+[2022.04.22-03.28.53:196][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zfert/AppData/Local/Temp/UnrealShaderWorkingDir/FE43F1B041EB560DBDCCB3A1C53459DF/'.
+[2022.04.22-03.28.53:196][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.04.22-03.28.53:196][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.04.22-03.28.53:750][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.04.22-03.28.53:787][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/zfert/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.04.22-03.28.53:787][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/zfert/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.04.22-03.28.53:787][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/zfert/Games/Capstone/Long/Long/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.22-03.28.53:787][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.04.22-03.28.53:787][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/zfert/Games/Capstone/Long/Long/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.22-03.28.53:787][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.04.22-03.28.53:796][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.04.22-03.28.53:796][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.22-03.28.53:796][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.04.22-03.28.53:801][  0]LogDerivedDataCache: Speed tests for C:/Users/zfert/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2022.04.22-03.28.53:801][  0]LogDerivedDataCache: Display: Performance to C:/Users/zfert/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1757.44MBs, RandomWriteSpeed=244.10MBs. Assigned SpeedClass 'Local'
+[2022.04.22-03.28.53:801][  0]LogDerivedDataCache: Using Local data cache path C:/Users/zfert/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.22-03.28.53:801][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.22-03.28.53:801][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.04.22-03.28.53:837][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.22-03.28.53:837][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.22-03.28.53:852][  0]LogAssetRegistry: FAssetRegistry took 0.0017 seconds to start up
+[2022.04.22-03.28.54:015][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.22-03.28.54:015][  0]LogInit: Active device profile: [0000022A2BBCB200][0000022A1DC5A3C0 49] Windows
+[2022.04.22-03.28.54:015][  0]LogInit: Profiles: [0000022A2BBCB200][0000022A1DC5A3C0 49] Windows, [0000022A2BBD0F00][0000022A2B278540 49] WindowsNoEditor, [0000022A2BBC9000][0000022A2B27C6C0 49] WindowsServer, [0000022A2BBD2D00][0000022A2B280840 49] WindowsClient, [0000022A2BBCAC00][0000022A2B2849C0 49] IOS, [0000022A2BBD1600][0000022A2B288B40 49] iPadAir, [0000022A2BBC9600][0000022A2B28CCC0 49] iPadAir2, [0000022A2BB88A00][0000022A2B294F80 49] IPadPro, [0000022A2BB88B00][0000022A2B290FC0 49] iPadAir3, [0000022A2BBCA900][0000022A2B299140 49] iPadAir4, [0000022A2BB8B400][0000022A2B29D2C0 49] iPadMini2, [0000022A2BBC9700][0000022A2B2A1440 49] iPadMini3, [0000022A2BB8BB00][0000022A1DC5F580 49] iPadMini4, [0000022A2BBC8300][0000022A2B2A56C0 49] iPadMini5, [0000022A2BBD2700][0000022A2B2BF900 49] iPhone6, [0000022A2BBD2600][0000022A2B2A9940 49] iPodTouch6, [0000022A2BB89000][0000022A2B2CFC00 49] iPhone7, [0000022A2BB8AF00][0000022A2B2C7C40 49] iPodTouch7, [0000022A2BBD3000][0000022A2B2D6100 49] iPhone5S, [0000022A2BB8B600][0000022A2B2FA280 49] iPhone6Plus, [0000022A2BBD2300][0000022A2B2FE400 49] iPhone6S, [0000022A2BB88500][0000022A2B302580 49] iPhone6SPlus, [0000022A2BBD1B00][0000022A2B306700 49] iPhone7Plus, [0000022A2BB8B800][0000022A2B30A880 49] iPhoneSE, [0000022A2BBD0D00][0000022A2B31AA00 49] iPhone8, [0000022A2BB89400][0000022A2B31EB80 49] iPhone8Plus, [0000022A2BBD0200][0000022A2B322D00 49] iPhoneX, [0000022A2BB89C00][0000022A2C340E80 49] iPhoneXS, [0000022A2BBD0800][0000022A2C345000 49] iPhoneXSMax, [0000022A2BB89700][0000022A2C349180 49] iPhoneXR, [0000022A2BBD0500][0000022A2C34D300 49] iPhone11, [0000022A2BB89800][0000022A2C35D480 49] iPhone11Pro, [0000022A2BBD0100][0000022A2C361600 49] iPhone11ProMax, [0000022A2BB8A000][0000022A2B2C3740 49] iPhoneSE2, [0000022A2BBD0600][0000022A2C365880 49] iPhone12Mini, [0000022A2BB89D00][0000022A2C3699C0 49] iPhone12, [0000022A2BBD0C00][0000022A2C371B40 49] iPhone12Pro, [0000022A2BB8B500][0000022A2C375CC0 49] iPhone12ProMax, [0000022A2BBD2100][0000022A2C378180 49] iPadPro105, [0000022A2BB8A700][0000022A2C37C300 49] iPadPro129, [0000022A2BBD3800][0000022A2C380480 49] iPadPro97, [0000022A2BB88200][0000022A2C384600 49] iPadPro2_129, [0000022A2BBD1C00][0000022A2C388780 49] iPad5, [0000022A2BB8A500][0000022A2C38C900 49] iPad6, [0000022A2BBD1800][0000022A2C3B0A80 49] iPad7, [0000022A2BB89F00][0000022A2C3B4C00 49] iPad8, [0000022A2BBD0900][0000022A2C3B8D80 49] iPadPro11, [0000022A2BB8A400][0000022A2C3BCF00 49] iPadPro2_11, [0000022A2BBD1F00][0000022A2C3C1080 49] iPadPro3_129, [0000022A2BB8B700][0000022A2C3C5200 49] iPadPro4_129, [0000022A2BBD0300][0000022A2C3C9380 49] AppleTV, [0000022A2BB89100][0000022A2C3CD500 49] AppleTV4K, [0000022A2BBD2400][0000022A2C3FD680 49] TVOS, [0000022A2BB8B100][0000022A2C36D7C0 49] Mac, [0000022A2BBD1100][0000022A2C401900 49] MacClient, [0000022A2BBCB700][0000022A2C405A40 49] MacNoEditor, [0000022A2BC50B00][0000022A2C409B80 49] MacServer, [0000022A2BBC8A00][0000022A2C411D00 49] Linux, [0000022A2BC50600][0000022A2C4141C0 49] LinuxAArch64, [0000022A2BBCBC00][0000022A2C418340 49] LinuxNoEditor, [0000022A2BC50E00][0000022A2C41C4C0 49] LinuxAArch64NoEditor, [0000022A2BBC8D00][0000022A2C420640 49] LinuxClient, [0000022A2BC50200][0000022A2C4247C0 49] LinuxAArch64Client, [0000022A2BBCA100][0000022A2C428940 49] LinuxServer, [0000022A2BBD0700][0000022A2C42CAC0 49] LinuxAArch64Server, [0000022A2BBC9E00][0000022A2C430C40 49] Android, [0000022A2BBD3B00][0000022A2C434DC0 49] Android_Low, [0000022A2BBCA000][0000022A2C438F40 49] Android_Mid, [0000022A2BBD2C00][0000022A2C43D0C0 49] Android_High, [0000022A2BBCBE00][0000022A2C441240 49] Android_Default, [0000022A2BBD3600][0000022A2C4453C0 49] Android_Adreno4xx, [0000022A2BBCA600][0000022A2C449540 49] Android_Adreno5xx_Low, [0000022A2BBD0E00][0000022A2C44D6C0 49] Android_Adreno5xx, [0000022A2BBC9900][0000022A2C40D800 49] Android_Adreno6xx, [0000022A2BBD1200][0000022A2C451940 49] Android_Adreno6xx_Vulkan, [0000022A2BBC8700][0000022A2C455A80 49] Android_Mali_T6xx, [0000022A2BBD3E00][0000022A2C459BC0 49] Android_Mali_T7xx, [0000022A2BBC9800][0000022A2C461D40 49] Android_Mali_T8xx, [0000022A2BBD1A00][0000022A2C464200 49] Android_Mali_G71, [0000022A2BBC9500][0000022A2C468380 49] Android_Mali_G72, [0000022A2BBD1300][0000022A2C46C500 49] Android_Mali_G72_Vulkan, [0000022A2BBC8900][0000022A2C470680 49] Android_Mali_G76, [0000022A2BBD2B00][0000022A2C474800 49] Android_Mali_G76_Vulkan, [0000022A2BBCB900][0000022A2C478980 49] Android_Mali_G77, [0000022A2BBD3400][0000022A2C47CB00 49] Android_Mali_G77_Vulkan, [0000022A2BBCB600][0000022A2C480C80 49] Android_Vulkan_SM5, [0000022A2BBD3D00][0000022A2C484E00 49] Android_PowerVR_G6xxx, [0000022A2BBCB400][0000022A2C488F80 49] Android_PowerVR_GT7xxx, [0000022A2BBD2800][0000022A2C48D100 49] Android_PowerVR_GE8xxx, [0000022A2BBCA700][0000022A2C491280 49] Android_PowerVR_GM9xxx, [0000022A2BBD3F00][0000022A2C495400 49] Android_PowerVR_GM9xxx_Vulkan, [0000022A2BBCA400][0000022A2C499580 49] Android_TegraK1, [0000022A2BBD2200][0000022A2C49D700 49] Android_Unknown_Vulkan, [0000022A2BBCBB00][0000022A2C4A1880 49] Lumin, [0000022A2BBC9D00][0000022A2C45D9C0 49] Lumin_Desktop, [0000022A2BB8E900][0000022A2C4A5B00 49] HoloLens, 
+[2022.04.22-03.28.54:098][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.22-03.28.54:098][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.22-03.28.54:098][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.22-03.28.54:098][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.22-03.28.54:098][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.22-03.28.54:108][  0]LogNetVersion: MyProject 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1177340986)
+[2022.04.22-03.28.54:368][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.04.22-03.28.54:390][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.021383 seconds
+[2022.04.22-03.28.54:395][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.04.22-03.28.54:395][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.04.22-03.28.54:395][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.22-03.28.54:575][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.22-03.28.54:578][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.22-03.28.54:686][  0]SourceControl: Source control is disabled
+[2022.04.22-03.28.54:686][  0]SourceControl: Source control is disabled
+[2022.04.22-03.28.54:688][  0]SourceControl: Source control is disabled
+[2022.04.22-03.28.54:691][  0]SourceControl: Source control is disabled
+[2022.04.22-03.28.54:696][  0]SourceControl: Source control is disabled
+[2022.04.22-03.28.54:698][  0]LogUProjectInfo: Found projects:
+[2022.04.22-03.28.54:844][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.22-03.28.54:857][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.22-03.28.54:857][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.22-03.28.54:894][  0]LogCollectionManager: Loaded 0 collections in 0.000445 seconds
+[2022.04.22-03.28.54:906][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/Collections/' took 0.00s
+[2022.04.22-03.28.54:906][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Developers/zfert/Collections/' took 0.00s
+[2022.04.22-03.28.54:906][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Collections/' took 0.00s
+[2022.04.22-03.28.54:906][  0]LogOcInput: OculusInput pre-init called
+[2022.04.22-03.28.54:913][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.04.22-03.28.54:913][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.04.22-03.28.54:946][  0]LogEngine: Initializing Engine...
+[2022.04.22-03.28.54:946][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.22-03.28.54:946][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.04.22-03.28.54:947][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.22-03.28.55:024][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.22-03.28.55:030][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.22-03.28.55:041][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.22-03.28.55:044][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.22-03.28.55:044][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.22-03.28.55:044][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.22-03.28.55:044][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.22-03.28.55:044][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.22-03.28.55:044][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.22-03.28.55:044][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.22-03.28.55:044][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.22-03.28.55:044][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.22-03.28.55:044][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.22-03.28.55:044][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.22-03.28.55:044][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.22-03.28.55:052][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.22-03.28.55:052][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.04.22-03.28.55:069][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2022.04.22-03.28.55:069][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.22-03.28.55:070][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.22-03.28.55:070][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.22-03.28.55:071][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.22-03.28.55:071][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.22-03.28.55:071][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.22-03.28.55:072][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.22-03.28.55:072][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.22-03.28.55:072][  0]LogInit: FAudioDevice initialized.
+[2022.04.22-03.28.55:072][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.22-03.28.55:072][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.22-03.28.55:115][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/zfert/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.04.22-03.28.55:117][  0]LogInit: Texture streaming: Enabled
+[2022.04.22-03.28.55:126][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.04.22-03.28.55:130][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.22-03.28.55:130][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.04.22-03.28.55:131][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.04.22-03.28.55:151][  0]LogInit: Transaction tracking system initialized
+[2022.04.22-03.28.55:164][  0]BlueprintLog: New page: Editor Load
+[2022.04.22-03.28.55:205][  0]LocalizationService: Localization service is disabled
+[2022.04.22-03.28.55:220][  0]TimingProfiler: Initialize
+[2022.04.22-03.28.55:220][  0]TimingProfiler: OnSessionChanged
+[2022.04.22-03.28.55:220][  0]LoadingProfiler: Initialize
+[2022.04.22-03.28.55:220][  0]LoadingProfiler: OnSessionChanged
+[2022.04.22-03.28.55:220][  0]NetworkingProfiler: Initialize
+[2022.04.22-03.28.55:220][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.22-03.28.55:220][  0]MemoryProfiler: Initialize
+[2022.04.22-03.28.55:220][  0]MemoryProfiler: OnSessionChanged
+[2022.04.22-03.28.55:486][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.04.22-03.28.55:486][  0]LogCook: Display: Mobile HDR setting 1
+[2022.04.22-03.28.55:580][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zfert/Games/Capstone/Long/Long/Content/' took 0.00s
+[2022.04.22-03.28.55:680][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.22-03.28.55:682][  0]SourceControl: Source control is disabled
+[2022.04.22-03.28.55:682][  0]LogUnrealEdMisc: Loading editor; pre map load, took 3.834
+[2022.04.22-03.28.55:683][  0]Cmd: MAP LOAD FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/StarterContent/Maps/Long.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.22-03.28.55:683][  0]LogEditorServer: Warning: Can't find file 'C:/Users/zfert/Games/Capstone/Long/Long/Content/StarterContent/Maps/Long.umap'
+[2022.04.22-03.28.55:683][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.22-03.28.55:683][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2022.04.22-03.28.55:683][  0]LogFileHelpers: Loading map 'Long' took 0.000
+[2022.04.22-03.28.55:684][  0]LogUnrealEdMisc: Total Editor Startup Time, took 3.835
+[2022.04.22-03.28.55:810][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-03.28.55:814][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-03.28.55:818][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-03.28.55:822][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-03.28.55:831][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0064 seconds. Added 3601 classes and 859 folders.
+[2022.04.22-03.28.55:832][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.04.22-03.28.55:833][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.22-03.28.55:833][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:833][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.22-03.28.55:833][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.04.22-03.28.55:834][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.22-03.28.55:834][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:834][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.22-03.28.55:834][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.04.22-03.28.55:834][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.04.22-03.28.55:834][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:834][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.04.22-03.28.55:834][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.04.22-03.28.55:834][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.22-03.28.55:834][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:834][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.22-03.28.55:834][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.04.22-03.28.55:834][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.22-03.28.55:834][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:834][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.22-03.28.55:834][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.04.22-03.28.55:835][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.22-03.28.55:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.22-03.28.55:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.04.22-03.28.55:835][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.22-03.28.55:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.22-03.28.55:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.04.22-03.28.55:835][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.22-03.28.55:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.22-03.28.55:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.04.22-03.28.55:835][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.22-03.28.55:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.22-03.28.55:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.04.22-03.28.55:836][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.22-03.28.55:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.22-03.28.55:836][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.04.22-03.28.55:836][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.22-03.28.55:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.22-03.28.55:836][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.04.22-03.28.55:836][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.22-03.28.55:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.22-03.28.55:836][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.04.22-03.28.55:836][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.22-03.28.55:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:837][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.22-03.28.55:837][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.04.22-03.28.55:837][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.22-03.28.55:837][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:837][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.22-03.28.55:837][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.04.22-03.28.55:837][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.22-03.28.55:837][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:837][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.22-03.28.55:837][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.04.22-03.28.55:837][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.22-03.28.55:837][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:837][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.22-03.28.55:837][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.22-03.28.55:838][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.22-03.28.55:838][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:838][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.22-03.28.55:838][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.04.22-03.28.55:838][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.22-03.28.55:838][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:838][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.22-03.28.55:838][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.04.22-03.28.55:838][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.22-03.28.55:838][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:838][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.22-03.28.55:838][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.04.22-03.28.55:838][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.22-03.28.55:838][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:838][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.22-03.28.55:838][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.04.22-03.28.55:839][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.22-03.28.55:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.22-03.28.55:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.04.22-03.28.55:839][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.22-03.28.55:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.22-03.28.55:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.04.22-03.28.55:839][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.04.22-03.28.55:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.04.22-03.28.55:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.04.22-03.28.55:839][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.22-03.28.55:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.22-03.28.55:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.22-03.28.55:840][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.22-03.28.55:840][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:840][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.22-03.28.55:840][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.22-03.28.55:840][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.22-03.28.55:840][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.22-03.28.55:840][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.22-03.28.55:840][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.04.22-03.28.55:853][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.04.22-03.28.55:854][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2022.04.22-03.28.55:894][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.22-03.28.55:895][  0]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.22-03.28.55:953][  0]LogRenderer: Reallocating scene render targets to support 1208x568 Format 10 NumSamples 1 (Frame:1).
+[2022.04.22-03.28.55:996][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.04.22-03.28.55:996][  0]LogLoad: (Engine Initialization) Total time: 4.15 seconds
+[2022.04.22-03.28.55:996][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.22-03.28.55:996][  0]LogInit: First time updating LLM stats...
+[2022.04.22-03.28.56:024][  0]LogAssetRegistry: Asset discovery search completed in 2.1733 seconds
+[2022.04.22-03.28.56:025][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.04.22-03.28.56:026][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.22-03.28.56:033][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/zfert/Games/Capstone/Long/Long/Content/' took 0.02s
+[2022.04.22-03.28.57:012][ 87]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.22-03.29.01:639][546]LogAssetEditorSubsystem: Opening Asset editor for ObjectRedirector /Game/Mouse_GameMode.Mouse_GameMode
+[2022.04.22-03.29.01:894][546]LogAssetEditorSubsystem: Opening Asset editor for ObjectRedirector /Game/MoveEmma.MoveEmma
+[2022.04.22-03.29.02:144][546]LogAssetEditorSubsystem: Opening Asset editor for ObjectRedirector /Game/MainUI.MainUI
+[2022.04.22-03.29.05:614][887]LogSlate: Window 'MoveEmma' being destroyed
+[2022.04.22-03.29.13:497][625]LogSlate: Took 0.017863 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.22-03.29.13:532][625]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.22-03.29.15:737][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: microwave2 (BGRA8, 781X2483)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: Carpet_Floor_Lobby (BGRA8, 3000X2003)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X512)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: Chair_Classroom_Professor (AutoDXT, 3000X1996)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: Chair_Classroom2_Students (AutoDXT, 3000X1996)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: Carpet_Floor_Lobby_Normal (BGRA8, 3000X2003)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: Chair_Classroom_Professor_Normal (BC5, 3000X1996)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: Chair_Classroom2_Students_Normal (BC5, 3000X1996)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: Map_Capstone (AutoDXT, 2636X1520)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: tkynejer_2K_Roughness (AutoDXT, 2048X2048)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: tkynejer_2K_Displacement (AutoDXT, 2048X2048)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: tkynejer_2K_AO (AutoDXT, 2048X2048)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: Carpet_Floor_Toilet_Entrance (BGRA8, 3000X2003)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: Carpet_Floor_Toilet_Entrance_Normal (BGRA8, 3000X2003)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: tkynejer_2K_Normal (BC5, 2048X2048)
+[2022.04.22-03.29.21:629][795]LogTexture: Display: Building textures: tkynejer_2K_Albedo (AutoDXT, 2048X2048)
+[2022.04.22-03.29.21:629][795]LogMaterial: Display: Missing cached shader map for material Chair_Classroom_Professor_Mat, compiling. 
+[2022.04.22-03.29.21:769][795]LogMaterial: Display: Missing cached shader map for material SilverShinier, compiling. 
+[2022.04.22-03.29.21:815][795]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2022.04.22-03.29.21:815][795]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2022.04.22-03.29.21:815][795]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2022.04.22-03.29.21:815][795]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2022.04.22-03.29.21:815][795]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2022.04.22-03.29.21:815][795]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2022.04.22-03.29.21:815][795]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2022.04.22-03.29.21:815][795]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2022.04.22-03.29.21:815][795]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.04.22-03.29.21:815][795]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2022.04.22-03.29.21:815][795]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2022.04.22-03.29.21:815][795]LogStaticMesh: Building static mesh professor_chair...
+[2022.04.22-03.29.21:978][795]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 43
+[2022.04.22-03.29.21:978][795]LogStaticMesh: Built static mesh [0.17s] /Game/Props/professor_chair.professor_chair
+[2022.04.22-03.29.22:056][795]LogMaterial: Display: Missing cached shader map for material Chair_Classroom2_Students_Mat, compiling. 
+[2022.04.22-03.29.22:065][795]LogStaticMesh: Building static mesh chair_w_no_arms...
+[2022.04.22-03.29.22:129][795]LogStaticMesh: Built static mesh [0.06s] /Game/Props/chair_w_no_arms.chair_w_no_arms
+[2022.04.22-03.29.22:139][795]LogMaterial: Display: Missing cached shader map for material blinn7, compiling. 
+[2022.04.22-03.29.22:145][795]LogStaticMesh: Building static mesh tyrell...
+[2022.04.22-03.29.23:186][795]LogStaticMesh: Built static mesh [1.04s] /Game/Props/Capstones/tyrell.tyrell
+[2022.04.22-03.29.23:362][795]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 77
+[2022.04.22-03.29.23:362][795]LogMaterial: Display: Missing cached shader map for material blinn4, compiling. 
+[2022.04.22-03.29.23:445][795]LogStaticMesh: Building static mesh Glass_door_computer_lab...
+[2022.04.22-03.29.23:492][795]LogStaticMesh: Built static mesh [0.05s] /Game/Props/Glass_door_computer_lab.Glass_door_computer_lab
+[2022.04.22-03.29.23:524][795]LogStaticMesh: Building static mesh fridge...
+[2022.04.22-03.29.23:545][795]LogStaticMesh: Built static mesh [0.02s] /Game/Props/fridge.fridge
+[2022.04.22-03.29.23:581][795]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2022.04.22-03.29.23:593][795]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2022.04.22-03.29.23:604][795]LogStaticMesh: Building static mesh keurigg...
+[2022.04.22-03.29.23:770][795]LogStaticMesh: Built static mesh [0.17s] /Game/Props/Uncolored/keurigg.keurigg
+[2022.04.22-03.29.23:785][795]LogStaticMesh: Building static mesh top_cabinets...
+[2022.04.22-03.29.23:808][795]LogStaticMesh: Built static mesh [0.02s] /Game/Props/top_cabinets.top_cabinets
+[2022.04.22-03.29.23:857][795]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2022.04.22-03.29.23:867][795]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2022.04.22-03.29.23:876][795]LogMaterial: Display: Missing cached shader map for material blinn3, compiling. 
+[2022.04.22-03.29.23:885][795]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 148
+[2022.04.22-03.29.23:885][795]LogStaticMesh: Building static mesh thereelyou...
+[2022.04.22-03.29.24:137][795]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 150
+[2022.04.22-03.29.24:137][795]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 140
+[2022.04.22-03.29.24:137][795]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 130
+[2022.04.22-03.29.24:137][795]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 120
+[2022.04.22-03.29.24:137][795]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 110
+[2022.04.22-03.29.24:292][795]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 100
+[2022.04.22-03.29.24:292][795]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 91
+[2022.04.22-03.29.24:292][795]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 83
+[2022.04.22-03.29.24:292][795]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 76
+[2022.04.22-03.29.24:292][795]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 69
+[2022.04.22-03.29.24:292][795]LogStaticMesh: Built static mesh [0.41s] /Game/Props/Capstones/thereelyou.thereelyou
+[2022.04.22-03.29.24:341][795]LogMaterial: Display: Missing cached shader map for material blinn6, compiling. 
+[2022.04.22-03.29.24:351][795]LogStaticMesh: Building static mesh teachme...
+[2022.04.22-03.29.24:945][795]LogStaticMesh: Built static mesh [0.60s] /Game/Props/Capstones/teachme.teachme
+[2022.04.22-03.29.25:008][795]LogMaterial: Display: Missing cached shader map for material blinn5, compiling. 
+[2022.04.22-03.29.25:122][795]LogMaterial: Display: Missing cached shader map for material Carpet_Floor_Lobby_Mat, compiling. 
+[2022.04.22-03.29.25:136][795]LogStaticMesh: Building static mesh CR...
+[2022.04.22-03.29.25:171][795]LogStaticMesh: Built static mesh [0.04s] /Game/Props/CR.CR
+[2022.04.22-03.29.25:283][795]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2022.04.22-03.29.25:478][795]LogStaticMesh: Building static mesh runner...
+[2022.04.22-03.29.25:502][795]LogStaticMesh: Built static mesh [0.03s] /Game/Props/runner.runner
+[2022.04.22-03.29.25:637][795]LogStaticMesh: Building static mesh mothernature...
+[2022.04.22-03.29.25:742][795]LogStaticMesh: Built static mesh [0.11s] /Game/Props/Capstones/mothernature.mothernature
+[2022.04.22-03.29.25:752][795]LogMaterial: Display: Missing cached shader map for material blinn18, compiling. 
+[2022.04.22-03.29.25:760][795]LogMaterial: Display: Missing cached shader map for material blinn17, compiling. 
+[2022.04.22-03.29.25:782][795]LogStaticMesh: Building static mesh ehip...
+[2022.04.22-03.29.26:218][795]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 153
+[2022.04.22-03.29.26:462][795]LogStaticMesh: Built static mesh [0.68s] /Game/Props/Capstones/ehip.ehip
+[2022.04.22-03.29.26:535][795]LogMaterial: Display: Missing cached shader map for material blinn10, compiling. 
+[2022.04.22-03.29.26:615][795]LogStaticMesh: Building static mesh whiteboardhangers...
+[2022.04.22-03.29.26:619][795]LogStaticMesh: Built static mesh [0.00s] /Game/Props/whiteboardhangers.whiteboardhangers
+[2022.04.22-03.29.26:622][795]LogStaticMesh: Building static mesh Whiteboard_small_without_stand...
+[2022.04.22-03.29.26:656][795]LogStaticMesh: Built static mesh [0.03s] /Game/Props/Whiteboard_small_without_stand.Whiteboard_small_without_stand
+[2022.04.22-03.29.26:711][795]LogStaticMesh: Building static mesh waterfountain...
+[2022.04.22-03.29.26:783][795]LogStaticMesh: Built static mesh [0.07s] /Game/Props/Uncolored/waterfountain.waterfountain
+[2022.04.22-03.29.26:800][795]LogStaticMesh: Building static mesh trashcan1...
+[2022.04.22-03.29.26:903][795]LogStaticMesh: Built static mesh [0.10s] /Game/Props/Uncolored/trashcan1.trashcan1
+[2022.04.22-03.29.26:915][795]LogStaticMesh: Building static mesh papertowelholder...
+[2022.04.22-03.29.27:341][795]LogStaticMesh: Built static mesh [0.43s] /Game/Props/Uncolored/papertowelholder.papertowelholder
+[2022.04.22-03.29.27:362][795]LogMaterial: Display: Missing cached shader map for material typeBlinn, compiling. 
+[2022.04.22-03.29.27:377][795]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2022.04.22-03.29.27:392][795]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2022.04.22-03.29.27:405][795]LogStaticMesh: Building static mesh podiumm...
+[2022.04.22-03.29.27:443][795]LogStaticMesh: Built static mesh [0.04s] /Game/Props/podiumm.podiumm
+[2022.04.22-03.29.27:523][795]LogMaterial: Display: Missing cached shader map for material microwave2_Mat, compiling. 
+[2022.04.22-03.29.27:537][795]LogStaticMesh: Building static mesh microwave...
+[2022.04.22-03.29.27:544][795]LogStaticMesh: Built static mesh [0.01s] /Game/Props/microwave.microwave
+[2022.04.22-03.29.27:560][795]LogStaticMesh: Building static mesh labtiled...
+[2022.04.22-03.29.27:561][795]LogStaticMesh: Built static mesh [0.00s] /Game/Props/labtiled.labtiled
+[2022.04.22-03.29.27:585][795]LogStaticMesh: Building static mesh elontogether...
+[2022.04.22-03.29.28:728][795]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 239
+[2022.04.22-03.29.28:728][795]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 229
+[2022.04.22-03.29.28:728][795]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 219
+[2022.04.22-03.29.28:728][795]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 209
+[2022.04.22-03.29.29:263][795]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 199
+[2022.04.22-03.29.29:263][795]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 189
+[2022.04.22-03.29.29:263][795]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 179
+[2022.04.22-03.29.29:263][795]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 169
+[2022.04.22-03.29.29:374][795]LogStaticMesh: Built static mesh [1.79s] /Game/Props/Capstones/elontogether.elontogether
+[2022.04.22-03.29.29:650][795]LogMaterial: Display: Missing cached shader map for material blinn14, compiling. 
+[2022.04.22-03.29.29:658][795]LogStaticMesh: Building static mesh masfit...
+[2022.04.22-03.29.29:859][795]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 171
+[2022.04.22-03.29.29:874][795]LogStaticMesh: Built static mesh [0.22s] /Game/Props/Capstones/masfit.masfit
+[2022.04.22-03.29.29:889][795]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 161
+[2022.04.22-03.29.29:889][795]LogMaterial: Display: Missing cached shader map for material blinn13, compiling. 
+[2022.04.22-03.29.29:898][795]LogStaticMesh: Building static mesh safeski...
+[2022.04.22-03.29.30:423][795]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 163
+[2022.04.22-03.29.30:798][795]LogStaticMesh: Built static mesh [0.90s] /Game/Props/Capstones/safeski.safeski
+[2022.04.22-03.29.30:894][795]LogMaterial: Display: Missing cached shader map for material blinn16, compiling. 
+[2022.04.22-03.29.30:904][795]LogMaterial: Display: Missing cached shader map for material blinn15, compiling. 
+[2022.04.22-03.29.30:915][795]LogMaterial: Display: Missing cached shader map for material blinn8, compiling. 
+[2022.04.22-03.29.30:926][795]LogMaterial: Display: Missing cached shader map for material blinn9, compiling. 
+[2022.04.22-03.29.30:937][795]LogMaterial: Display: Missing cached shader map for material blinn11, compiling. 
+[2022.04.22-03.29.30:947][795]LogMaterial: Display: Missing cached shader map for material blinn12, compiling. 
+[2022.04.22-03.29.31:062][795]LogMaterial: Display: Missing cached shader map for material Map_Capstone_Mat, compiling. 
+[2022.04.22-03.29.31:146][795]LogMaterial: Display: Missing cached shader map for material tkynejer_2K_Albedo_Mat, compiling. 
+[2022.04.22-03.29.31:217][795]LogMaterial: Display: Missing cached shader map for material Carpet_Floor_Toilet_Entrance_Mat, compiling. 
+[2022.04.22-03.29.31:301][795]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2022.04.22-03.29.31:667][795]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 350
+[2022.04.22-03.29.31:667][795]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Long.Long
+[2022.04.22-03.29.31:669][795]Cmd: MAP LOAD FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.22-03.29.31:679][795]LightingResults: New page: Lighting Build
+[2022.04.22-03.29.31:697][795]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0007 seconds. Added 6 classes and 0 folders.
+[2022.04.22-03.29.31:697][795]LoadErrors: New page: Loading map: Long.umap
+[2022.04.22-03.29.31:710][795]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-03.29.31:711][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-03.29.31:721][795]MapCheck: New page: Map Check
+[2022.04.22-03.29.31:722][795]LightingResults: New page: Lighting Build
+[2022.04.22-03.29.31:747][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.04.22-03.29.31:770][795]LogAudio: Display: Audio Device (ID: 1) registered with world 'Long'.
+[2022.04.22-03.29.31:993][795]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.22-03.29.31:993][795]LogAIModule: Creating AISystem for world Long
+[2022.04.22-03.29.32:053][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.04.22-03.29.32:066][795]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.22-03.29.32:066][795]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.302ms to complete.
+[2022.04.22-03.29.32:067][795]LogFileHelpers: Loading map 'Long' took 0.398
+[2022.04.22-03.29.33:616][857]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 340
+[2022.04.22-03.29.34:499][924]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 330
+[2022.04.22-03.29.34:653][939]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 320
+[2022.04.22-03.29.34:857][960]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 310
+[2022.04.22-03.29.34:944][966]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 300
+[2022.04.22-03.29.35:268][995]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 290
+[2022.04.22-03.29.35:755][ 38]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 280
+[2022.04.22-03.29.36:720][122]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 270
+[2022.04.22-03.29.37:617][209]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 260
+[2022.04.22-03.29.38:202][263]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 250
+[2022.04.22-03.29.38:341][269]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 240
+[2022.04.22-03.29.38:929][273]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 230
+[2022.04.22-03.29.40:907][355]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 220
+[2022.04.22-03.29.41:648][391]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 210
+[2022.04.22-03.29.42:327][413]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 200
+[2022.04.22-03.29.42:386][415]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 190
+[2022.04.22-03.29.43:175][457]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 180
+[2022.04.22-03.29.43:424][471]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 170
+[2022.04.22-03.29.43:565][479]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 160
+[2022.04.22-03.29.44:019][489]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 150
+[2022.04.22-03.29.44:381][502]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 140
+[2022.04.22-03.29.44:501][508]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 130
+[2022.04.22-03.29.45:724][560]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 120
+[2022.04.22-03.29.47:792][635]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 110
+[2022.04.22-03.29.48:036][646]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 100
+[2022.04.22-03.29.48:260][652]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 91
+[2022.04.22-03.29.48:389][656]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 83
+[2022.04.22-03.29.48:653][674]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 76
+[2022.04.22-03.29.50:647][827]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 69
+[2022.04.22-03.29.50:933][850]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 63
+[2022.04.22-03.29.51:106][861]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 57
+[2022.04.22-03.29.51:453][884]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 52
+[2022.04.22-03.29.51:522][889]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 47
+[2022.04.22-03.29.51:554][890]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 43
+[2022.04.22-03.29.52:047][912]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 39
+[2022.04.22-03.29.52:307][933]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 35
+[2022.04.22-03.29.52:479][948]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 32
+[2022.04.22-03.29.52:504][949]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 29
+[2022.04.22-03.29.53:574][ 32]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2022.04.22-03.29.53:712][ 43]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 23
+[2022.04.22-03.29.53:807][ 51]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2022.04.22-03.29.53:990][ 68]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2022.04.22-03.29.54:083][ 76]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 17
+[2022.04.22-03.29.54:308][ 94]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 15
+[2022.04.22-03.29.54:381][100]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2022.04.22-03.29.54:446][106]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2022.04.22-03.29.55:074][160]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2022.04.22-03.29.55:148][166]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2022.04.22-03.29.55:171][167]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2022.04.22-03.29.55:213][170]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.04.22-03.29.55:281][173]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.04.22-03.29.55:327][175]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.04.22-03.29.55:437][175]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2022.04.22-03.29.55:540][182]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2022.04.22-03.29.55:605][187]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.04.22-03.29.55:653][191]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.04.22-03.30.10:103][450]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.22-03.30.10:127][450]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.22-03.30.14:845][  1]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.04.22-03.30.14:845][  1]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.22-03.30.36:715][102]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\tyrell.fbx)
+[2022.04.22-03.30.36:825][102]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\tyrell.fbx
+[2022.04.22-03.30.36:946][102]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.30.51:664][102]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.22-03.30.51:746][102]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2022.04.22-03.30.51:759][102]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2022.04.22-03.30.51:759][102]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2022.04.22-03.30.51:759][102]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.04.22-03.30.51:759][102]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.04.22-03.30.51:759][102]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.04.22-03.30.51:759][102]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2022.04.22-03.30.51:768][102]LogMaterial: Display: Missing cached shader map for material blinn37, compiling. 
+[2022.04.22-03.30.51:787][102]LogMaterial: Display: Missing cached shader map for material blinn22, compiling. 
+[2022.04.22-03.30.51:792][102]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2022.04.22-03.30.51:792][102]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2022.04.22-03.30.51:792][102]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2022.04.22-03.30.51:792][102]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2022.04.22-03.30.51:792][102]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2022.04.22-03.30.51:792][102]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.04.22-03.30.51:814][102]LogMaterial: Display: Missing cached shader map for material blinn17, compiling. 
+[2022.04.22-03.30.51:841][102]LogMaterial: Display: Missing cached shader map for material blinn6, compiling. 
+[2022.04.22-03.30.51:867][102]LogMaterial: Display: Missing cached shader map for material blinn4, compiling. 
+[2022.04.22-03.30.51:896][102]LogMaterial: Display: Missing cached shader map for material blinn36, compiling. 
+[2022.04.22-03.30.51:920][102]LogMaterial: Display: Missing cached shader map for material blinn39, compiling. 
+[2022.04.22-03.30.51:948][102]LogMaterial: Display: Missing cached shader map for material blinn5, compiling. 
+[2022.04.22-03.30.51:980][102]LogMaterial: Display: Missing cached shader map for material blinn18, compiling. 
+[2022.04.22-03.30.52:022][102]LogMaterial: Display: Missing cached shader map for material blinn38, compiling. 
+[2022.04.22-03.30.52:067][102]LogMaterial: Display: Missing cached shader map for material blinn11, compiling. 
+[2022.04.22-03.30.52:112][102]LogMaterial: Display: Missing cached shader map for material blinn20, compiling. 
+[2022.04.22-03.30.52:152][102]LogMaterial: Display: Missing cached shader map for material blinn26, compiling. 
+[2022.04.22-03.30.52:187][102]LogMaterial: Display: Missing cached shader map for material blinn3, compiling. 
+[2022.04.22-03.30.52:225][102]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2022.04.22-03.30.52:261][102]LogMaterial: Display: Missing cached shader map for material blinn16, compiling. 
+[2022.04.22-03.30.52:299][102]LogMaterial: Display: Missing cached shader map for material blinn31, compiling. 
+[2022.04.22-03.30.52:337][102]LogMaterial: Display: Missing cached shader map for material blinn33, compiling. 
+[2022.04.22-03.30.52:374][102]LogMaterial: Display: Missing cached shader map for material blinn21, compiling. 
+[2022.04.22-03.30.52:414][102]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2022.04.22-03.30.52:455][102]LogMaterial: Display: Missing cached shader map for material blinn34, compiling. 
+[2022.04.22-03.30.52:495][102]LogMaterial: Display: Missing cached shader map for material blinn23, compiling. 
+[2022.04.22-03.30.52:538][102]LogMaterial: Display: Missing cached shader map for material blinn19, compiling. 
+[2022.04.22-03.30.52:577][102]LogMaterial: Display: Missing cached shader map for material blinn24, compiling. 
+[2022.04.22-03.30.52:615][102]LogMaterial: Display: Missing cached shader map for material blinn35, compiling. 
+[2022.04.22-03.30.52:652][102]LogMaterial: Display: Missing cached shader map for material blinn25, compiling. 
+[2022.04.22-03.30.52:693][102]LogMaterial: Display: Missing cached shader map for material blinn15, compiling. 
+[2022.04.22-03.30.52:732][102]LogMaterial: Display: Missing cached shader map for material blinn7, compiling. 
+[2022.04.22-03.30.52:745][102]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 324
+[2022.04.22-03.30.52:770][102]LogMaterial: Display: Missing cached shader map for material blinn10, compiling. 
+[2022.04.22-03.30.52:810][102]LogMaterial: Display: Missing cached shader map for material blinn12, compiling. 
+[2022.04.22-03.30.52:852][102]LogMaterial: Display: Missing cached shader map for material blinn13, compiling. 
+[2022.04.22-03.30.52:878][102]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 350
+[2022.04.22-03.30.52:893][102]LogMaterial: Display: Missing cached shader map for material blinn27, compiling. 
+[2022.04.22-03.30.52:934][102]LogMaterial: Display: Missing cached shader map for material blinn29, compiling. 
+[2022.04.22-03.30.52:972][102]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 364
+[2022.04.22-03.30.52:972][102]LogMaterial: Display: Missing cached shader map for material blinn30, compiling. 
+[2022.04.22-03.30.53:010][102]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 366
+[2022.04.22-03.30.53:010][102]LogMaterial: Display: Missing cached shader map for material blinn32, compiling. 
+[2022.04.22-03.30.53:049][102]LogMaterial: Display: Missing cached shader map for material blinn14, compiling. 
+[2022.04.22-03.30.53:091][102]LogMaterial: Display: Missing cached shader map for material blinn28, compiling. 
+[2022.04.22-03.30.53:131][102]LogMaterial: Display: Missing cached shader map for material blinn9, compiling. 
+[2022.04.22-03.30.53:164][102]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 404
+[2022.04.22-03.30.53:173][102]LogMaterial: Display: Missing cached shader map for material blinn8, compiling. 
+[2022.04.22-03.30.53:256][102]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 406
+[2022.04.22-03.30.53:256][102]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 396
+[2022.04.22-03.30.53:256][102]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 386
+[2022.04.22-03.30.53:256][102]LogFbx: Display: Triangulating static mesh pasted__polySurface2
+[2022.04.22-03.30.54:688][102]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 376
+[2022.04.22-03.30.54:688][102]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 366
+[2022.04.22-03.30.54:688][102]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 356
+[2022.04.22-03.30.54:688][102]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 346
+[2022.04.22-03.30.55:264][102]LogStaticMesh: Building static mesh tyrell_pasted__polySurface2...
+[2022.04.22-03.30.56:320][102]LogStaticMesh: Built static mesh [1.06s] /Game/Props/Capstones/NewFolder/tyrell_pasted__polySurface2.tyrell_pasted__polySurface2
+[2022.04.22-03.30.56:527][102]LogStaticMesh: Warning: tyrell_pasted__polySurface2 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.22-03.30.56:527][102]LogStaticMesh: Warning: tyrell_pasted__polySurface2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.22-03.30.56:734][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn39, compiling. 
+[2022.04.22-03.30.56:775][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn24, compiling. 
+[2022.04.22-03.30.56:813][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn19, compiling. 
+[2022.04.22-03.30.56:850][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn8, compiling. 
+[2022.04.22-03.30.56:890][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn6, compiling. 
+[2022.04.22-03.30.56:929][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn38, compiling. 
+[2022.04.22-03.30.56:965][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn41, compiling. 
+[2022.04.22-03.30.57:002][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn7, compiling. 
+[2022.04.22-03.30.57:042][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn20, compiling. 
+[2022.04.22-03.30.57:081][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn40, compiling. 
+[2022.04.22-03.30.57:123][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn13, compiling. 
+[2022.04.22-03.30.57:163][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn22, compiling. 
+[2022.04.22-03.30.57:203][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn28, compiling. 
+[2022.04.22-03.30.57:243][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn5, compiling. 
+[2022.04.22-03.30.57:280][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn4, compiling. 
+[2022.04.22-03.30.57:322][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn18, compiling. 
+[2022.04.22-03.30.57:359][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn33, compiling. 
+[2022.04.22-03.30.57:393][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn35, compiling. 
+[2022.04.22-03.30.57:429][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn23, compiling. 
+[2022.04.22-03.30.57:465][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn3, compiling. 
+[2022.04.22-03.30.57:509][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn36, compiling. 
+[2022.04.22-03.30.57:551][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn25, compiling. 
+[2022.04.22-03.30.57:592][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn21, compiling. 
+[2022.04.22-03.30.57:630][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn26, compiling. 
+[2022.04.22-03.30.57:668][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn37, compiling. 
+[2022.04.22-03.30.57:703][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn27, compiling. 
+[2022.04.22-03.30.57:739][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn17, compiling. 
+[2022.04.22-03.30.57:776][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn9, compiling. 
+[2022.04.22-03.30.57:818][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn12, compiling. 
+[2022.04.22-03.30.57:860][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn14, compiling. 
+[2022.04.22-03.30.57:902][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn15, compiling. 
+[2022.04.22-03.30.57:940][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn29, compiling. 
+[2022.04.22-03.30.57:978][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn31, compiling. 
+[2022.04.22-03.30.58:015][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn32, compiling. 
+[2022.04.22-03.30.58:054][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn34, compiling. 
+[2022.04.22-03.30.58:095][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn16, compiling. 
+[2022.04.22-03.30.58:135][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn30, compiling. 
+[2022.04.22-03.30.58:176][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn11, compiling. 
+[2022.04.22-03.30.58:217][102]LogMaterial: Display: Missing cached shader map for material pasted__blinn10, compiling. 
+[2022.04.22-03.30.58:304][102]LogFbx: Display: Triangulating static mesh pasted__pasted__polySurface2
+[2022.04.22-03.30.59:715][102]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 804
+[2022.04.22-03.30.59:715][102]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 794
+[2022.04.22-03.30.59:715][102]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 784
+[2022.04.22-03.30.59:715][102]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 774
+[2022.04.22-03.30.59:715][102]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 764
+[2022.04.22-03.30.59:715][102]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 754
+[2022.04.22-03.30.59:715][102]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 744
+[2022.04.22-03.30.59:715][102]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 734
+[2022.04.22-03.30.59:715][102]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 724
+[2022.04.22-03.30.59:715][102]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 714
+[2022.04.22-03.30.59:715][102]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 704
+[2022.04.22-03.30.59:715][102]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 694
+[2022.04.22-03.31.00:237][102]LogStaticMesh: Building static mesh tyrell_pasted__pasted__polySurface2...
+[2022.04.22-03.31.01:299][102]LogStaticMesh: Built static mesh [1.06s] /Game/Props/Capstones/NewFolder/tyrell_pasted__pasted__polySurface2.tyrell_pasted__pasted__polySurface2
+[2022.04.22-03.31.01:499][102]LogStaticMesh: Warning: tyrell_pasted__pasted__polySurface2 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.22-03.31.01:499][102]LogStaticMesh: Warning: tyrell_pasted__pasted__polySurface2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.22-03.31.01:945][102]FBXImport: Warning: tyrell_pasted__polySurface2 has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.22-03.31.01:945][102]FBXImport: Warning: tyrell_pasted__polySurface2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.22-03.31.01:945][102]FBXImport: Warning: tyrell_pasted__pasted__polySurface2 has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.22-03.31.01:945][102]FBXImport: Warning: tyrell_pasted__pasted__polySurface2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.22-03.31.02:255][102]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\ehip.fbx)
+[2022.04.22-03.31.02:288][102]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\ehip.fbx
+[2022.04.22-03.31.02:336][102]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.31.02:340][102]LogMaterial: Display: Missing cached shader map for material blinn40, compiling. 
+[2022.04.22-03.31.02:378][102]LogMaterial: Display: Missing cached shader map for material blinn41, compiling. 
+[2022.04.22-03.31.02:419][102]LogMaterial: Display: Missing cached shader map for material blinn42, compiling. 
+[2022.04.22-03.31.02:458][102]LogMaterial: Display: Missing cached shader map for material blinn43, compiling. 
+[2022.04.22-03.31.02:495][102]LogMaterial: Display: Missing cached shader map for material blinn44, compiling. 
+[2022.04.22-03.31.02:545][102]LogFbx: Display: Triangulating static mesh polySurface2
+[2022.04.22-03.31.03:645][102]LogStaticMesh: Building static mesh ehip_polySurface2...
+[2022.04.22-03.31.04:213][102]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 744
+[2022.04.22-03.31.04:213][102]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 734
+[2022.04.22-03.31.04:213][102]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 724
+[2022.04.22-03.31.04:234][102]LogStaticMesh: Built static mesh [0.59s] /Game/Props/Capstones/NewFolder/ehip_polySurface2.ehip_polySurface2
+[2022.04.22-03.31.04:412][102]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 714
+[2022.04.22-03.31.04:522][102]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 704
+[2022.04.22-03.31.04:522][102]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 694
+[2022.04.22-03.31.04:522][102]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\elontogether.fbx)
+[2022.04.22-03.31.04:535][102]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 684
+[2022.04.22-03.31.04:556][102]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\elontogether.fbx
+[2022.04.22-03.31.04:672][102]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 674
+[2022.04.22-03.31.04:672][102]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 664
+[2022.04.22-03.31.04:672][102]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.31.04:683][102]LogMaterial: Display: Missing cached shader map for material blinn45, compiling. 
+[2022.04.22-03.31.04:716][102]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 666
+[2022.04.22-03.31.04:718][102]LogMaterial: Display: Missing cached shader map for material blinn46, compiling. 
+[2022.04.22-03.31.04:838][102]LogFbx: Display: Triangulating static mesh polySurface2
+[2022.04.22-03.31.06:818][102]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 668
+[2022.04.22-03.31.06:818][102]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 658
+[2022.04.22-03.31.07:617][102]LogStaticMesh: Building static mesh elontogether_polySurface2...
+[2022.04.22-03.31.08:880][102]LogStaticMesh: Built static mesh [1.26s] /Game/Props/Capstones/NewFolder/elontogether_polySurface2.elontogether_polySurface2
+[2022.04.22-03.31.09:436][102]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 648
+[2022.04.22-03.31.09:728][102]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 638
+[2022.04.22-03.31.09:733][102]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\masfit.fbx)
+[2022.04.22-03.31.09:767][102]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\masfit.fbx
+[2022.04.22-03.31.09:787][102]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.31.09:791][102]LogMaterial: Display: Missing cached shader map for material blinn47, compiling. 
+[2022.04.22-03.31.09:810][102]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 640
+[2022.04.22-03.31.09:829][102]LogMaterial: Display: Missing cached shader map for material blinn48, compiling. 
+[2022.04.22-03.31.09:857][102]LogFbx: Display: Triangulating static mesh polySurface1
+[2022.04.22-03.31.10:158][102]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 642
+[2022.04.22-03.31.10:159][102]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 632
+[2022.04.22-03.31.10:261][102]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 622
+[2022.04.22-03.31.10:261][102]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 612
+[2022.04.22-03.31.10:261][102]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 602
+[2022.04.22-03.31.10:262][102]LogStaticMesh: Building static mesh masfit_polySurface1...
+[2022.04.22-03.31.10:369][102]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 592
+[2022.04.22-03.31.10:369][102]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 582
+[2022.04.22-03.31.10:369][102]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 572
+[2022.04.22-03.31.10:443][102]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 562
+[2022.04.22-03.31.10:443][102]LogStaticMesh: Built static mesh [0.18s] /Game/Props/Capstones/NewFolder/masfit_polySurface1.masfit_polySurface1
+[2022.04.22-03.31.10:494][102]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\mothernature.fbx)
+[2022.04.22-03.31.10:530][102]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\mothernature.fbx
+[2022.04.22-03.31.10:544][102]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.31.10:548][102]LogMaterial: Display: Missing cached shader map for material blinn49, compiling. 
+[2022.04.22-03.31.10:585][102]LogMaterial: Display: Missing cached shader map for material blinn50, compiling. 
+[2022.04.22-03.31.10:610][102]LogFbx: Display: Triangulating static mesh polySurface1
+[2022.04.22-03.31.10:831][102]LogStaticMesh: Building static mesh mothernature_polySurface1...
+[2022.04.22-03.31.10:921][102]LogStaticMesh: Built static mesh [0.09s] /Game/Props/Capstones/NewFolder/mothernature_polySurface1.mothernature_polySurface1
+[2022.04.22-03.31.10:928][102]LogStaticMesh: Warning: mothernature_polySurface1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.22-03.31.10:928][102]LogStaticMesh: Warning: mothernature_polySurface1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.22-03.31.10:942][102]FBXImport: Warning: mothernature_polySurface1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.22-03.31.10:942][102]FBXImport: Warning: mothernature_polySurface1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.22-03.31.10:952][102]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\safeski.fbx)
+[2022.04.22-03.31.10:963][102]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\safeski.fbx
+[2022.04.22-03.31.10:968][102]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.31.10:970][102]FBXImport: Error: Could not find any node. 
+[2022.04.22-03.31.10:970][102]FBXImport: Error: Import failed. 
+[2022.04.22-03.31.14:750][102]LogSlate: Window 'Message' being destroyed
+[2022.04.22-03.31.14:755][102]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\safeski.fbx'. Failed to create asset '/Game/Props/Capstones/NewFolder/safeski'.
+Please see Output Log for details.
+[2022.04.22-03.31.14:756][102]LogAssetTools: Warning: Failed to import 'C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\safeski.fbx'. Failed to create asset '/Game/Props/Capstones/NewFolder/safeski'.
+Please see Output Log for details.
+[2022.04.22-03.31.14:761][102]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\teachme.fbx)
+[2022.04.22-03.31.14:776][102]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\teachme.fbx
+[2022.04.22-03.31.14:819][102]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.31.14:822][102]LogMaterial: Display: Missing cached shader map for material blinn51, compiling. 
+[2022.04.22-03.31.14:863][102]LogMaterial: Display: Missing cached shader map for material blinn52, compiling. 
+[2022.04.22-03.31.14:905][102]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2022.04.22-03.31.14:952][102]LogFbx: Display: Triangulating static mesh polySurface1
+[2022.04.22-03.31.15:618][102]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 612
+[2022.04.22-03.31.15:618][102]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 602
+[2022.04.22-03.31.15:618][102]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 592
+[2022.04.22-03.31.15:618][102]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 582
+[2022.04.22-03.31.15:826][102]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 572
+[2022.04.22-03.31.15:866][102]LogStaticMesh: Building static mesh teachme_polySurface1...
+[2022.04.22-03.31.16:122][102]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 562
+[2022.04.22-03.31.16:122][102]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 552
+[2022.04.22-03.31.16:122][102]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 542
+[2022.04.22-03.31.16:122][102]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 532
+[2022.04.22-03.31.16:310][102]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 522
+[2022.04.22-03.31.16:310][102]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 512
+[2022.04.22-03.31.16:310][102]LogStaticMesh: Built static mesh [0.44s] /Game/Props/Capstones/NewFolder/teachme_polySurface1.teachme_polySurface1
+[2022.04.22-03.31.16:385][102]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 502
+[2022.04.22-03.31.16:557][102]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\thereelyou.fbx)
+[2022.04.22-03.31.16:578][102]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\thereelyou.fbx
+[2022.04.22-03.31.16:614][102]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.31.16:621][102]LogMaterial: Display: Missing cached shader map for material blinn53, compiling. 
+[2022.04.22-03.31.16:657][102]LogMaterial: Display: Missing cached shader map for material blinn54, compiling. 
+[2022.04.22-03.31.16:689][102]LogFbx: Display: Triangulating static mesh polySurface1
+[2022.04.22-03.31.17:326][102]LogStaticMesh: Building static mesh thereelyou_polySurface1...
+[2022.04.22-03.31.17:635][102]LogStaticMesh: Built static mesh [0.31s] /Game/Props/Capstones/NewFolder/thereelyou_polySurface1.thereelyou_polySurface1
+[2022.04.22-03.31.21:616][249]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 516
+[2022.04.22-03.31.21:765][258]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 506
+[2022.04.22-03.31.21:800][260]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 496
+[2022.04.22-03.31.22:046][274]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 486
+[2022.04.22-03.31.22:046][274]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 476
+[2022.04.22-03.31.22:107][278]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 466
+[2022.04.22-03.31.22:193][283]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 456
+[2022.04.22-03.31.22:262][287]LogSlate: Window 'Message Log' being destroyed
+[2022.04.22-03.31.22:291][287]LogSlate: Window 'Message Log' being destroyed
+[2022.04.22-03.31.22:462][298]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 446
+[2022.04.22-03.31.22:506][301]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 436
+[2022.04.22-03.31.22:728][311]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 426
+[2022.04.22-03.31.22:887][318]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 416
+[2022.04.22-03.31.23:165][328]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 406
+[2022.04.22-03.31.28:223][485]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 396
+[2022.04.22-03.31.28:273][487]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 386
+[2022.04.22-03.31.28:395][490]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 376
+[2022.04.22-03.31.28:624][497]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 366
+[2022.04.22-03.31.28:868][503]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 356
+[2022.04.22-03.31.28:868][503]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 346
+[2022.04.22-03.31.29:205][512]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 336
+[2022.04.22-03.31.29:244][514]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 326
+[2022.04.22-03.31.29:285][515]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 316
+[2022.04.22-03.31.29:557][526]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 306
+[2022.04.22-03.31.29:614][527]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 296
+[2022.04.22-03.31.30:427][549]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 286
+[2022.04.22-03.31.34:537][688]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 276
+[2022.04.22-03.31.34:674][694]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 266
+[2022.04.22-03.31.34:707][695]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 256
+[2022.04.22-03.31.35:008][708]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 246
+[2022.04.22-03.31.35:274][717]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 236
+[2022.04.22-03.31.35:961][743]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 226
+[2022.04.22-03.31.36:329][758]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 216
+[2022.04.22-03.31.36:403][761]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 206
+[2022.04.22-03.31.36:480][765]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 196
+[2022.04.22-03.31.36:581][769]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 186
+[2022.04.22-03.31.36:779][778]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 176
+[2022.04.22-03.31.37:005][788]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 166
+[2022.04.22-03.31.41:104][965]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 156
+[2022.04.22-03.31.41:112][965]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\safeski.fbx)
+[2022.04.22-03.31.41:141][965]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\safeski.fbx
+[2022.04.22-03.31.41:145][965]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 146
+[2022.04.22-03.31.41:145][965]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.31.41:148][965]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2022.04.22-03.31.41:596][965]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 136
+[2022.04.22-03.31.41:963][965]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 126
+[2022.04.22-03.31.42:053][965]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 116
+[2022.04.22-03.31.42:070][965]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 106
+[2022.04.22-03.31.42:693][965]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 97
+[2022.04.22-03.31.42:768][965]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 88
+[2022.04.22-03.31.42:853][965]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 80
+[2022.04.22-03.31.43:184][965]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 73
+[2022.04.22-03.31.43:398][965]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 66
+[2022.04.22-03.31.43:432][965]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 60
+[2022.04.22-03.31.46:738][965]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 54
+[2022.04.22-03.31.46:826][965]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 49
+[2022.04.22-03.31.46:877][965]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 44
+[2022.04.22-03.31.47:013][965]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 40
+[2022.04.22-03.31.47:048][965]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 36
+[2022.04.22-03.31.47:100][965]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 32
+[2022.04.22-03.31.47:151][965]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 29
+[2022.04.22-03.31.47:168][965]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 26
+[2022.04.22-03.31.47:219][965]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2022.04.22-03.31.47:704][965]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 21
+[2022.04.22-03.31.47:840][965]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+[2022.04.22-03.31.47:994][965]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2022.04.22-03.31.48:523][965]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 15
+[2022.04.22-03.31.48:558][965]LogSlate: Window 'Message' being destroyed
+[2022.04.22-03.31.48:563][965]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\safeski.fbx'. Failed to create asset '/Game/Props/Capstones/NewFolder/safeski'.
+Please see Output Log for details.
+[2022.04.22-03.31.48:563][965]LogAssetTools: Warning: Failed to import 'C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\safeski.fbx'. Failed to create asset '/Game/Props/Capstones/NewFolder/safeski'.
+Please see Output Log for details.
+[2022.04.22-03.31.48:695][965]LogSlate: Took 0.030108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.22-03.31.49:043][976]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2022.04.22-03.31.49:095][976]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2022.04.22-03.31.49:096][976]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2022.04.22-03.31.49:324][986]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2022.04.22-03.31.49:328][986]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2022.04.22-03.31.49:348][987]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2022.04.22-03.31.49:651][  5]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2022.04.22-03.31.49:701][  8]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2022.04.22-03.31.49:776][ 12]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2022.04.22-03.31.49:851][ 17]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2022.04.22-03.31.49:900][ 20]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.04.22-03.31.49:988][ 25]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.04.22-03.31.59:993][ 83]LogSlate: Window 'Message Log' being destroyed
+[2022.04.22-03.31.59:998][ 83]LogSlate: Window 'Message Log' being destroyed
+[2022.04.22-03.32.07:172][766]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Props/Capstones/NewFolder/tyrell_pasted__polySurface2.tyrell_pasted__polySurface2
+[2022.04.22-03.32.08:238][767]LogRenderer: Reallocating scene render targets to support 1432x912 Format 10 NumSamples 1 (Frame:1).
+[2022.04.22-03.32.10:238][957]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-03.32.10:238][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-03.32.22:799][ 18]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Props/Capstones/NewFolder/ehip_polySurface2.ehip_polySurface2
+[2022.04.22-03.32.23:009][ 18]LogSlate: Took 0.015064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.22-03.32.26:470][398]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-03.32.26:470][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-03.32.30:496][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.04.22-03.32.32:129][837]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.22-03.32.32:326][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.04.22-03.34.50:119][856]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\tyrell.fbx)
+[2022.04.22-03.34.50:135][856]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\tyrell.fbx
+[2022.04.22-03.34.50:230][856]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.34.53:028][856]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.22-03.34.53:038][856]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2022.04.22-03.34.53:045][856]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2022.04.22-03.34.53:045][856]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2022.04.22-03.34.53:045][856]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.04.22-03.34.53:045][856]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.04.22-03.34.53:045][856]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.04.22-03.34.53:045][856]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2022.04.22-03.34.53:055][856]LogMaterial: Display: Missing cached shader map for material blinn37, compiling. 
+[2022.04.22-03.34.53:078][856]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2022.04.22-03.34.53:078][856]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2022.04.22-03.34.53:078][856]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2022.04.22-03.34.53:078][856]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2022.04.22-03.34.53:078][856]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2022.04.22-03.34.53:078][856]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.04.22-03.34.53:090][856]LogMaterial: Display: Missing cached shader map for material blinn22, compiling. 
+[2022.04.22-03.34.53:113][856]LogMaterial: Display: Missing cached shader map for material blinn17, compiling. 
+[2022.04.22-03.34.53:137][856]LogMaterial: Display: Missing cached shader map for material blinn6, compiling. 
+[2022.04.22-03.34.53:160][856]LogMaterial: Display: Missing cached shader map for material blinn4, compiling. 
+[2022.04.22-03.34.53:186][856]LogMaterial: Display: Missing cached shader map for material blinn36, compiling. 
+[2022.04.22-03.34.53:209][856]LogMaterial: Display: Missing cached shader map for material blinn39, compiling. 
+[2022.04.22-03.34.53:232][856]LogMaterial: Display: Missing cached shader map for material blinn5, compiling. 
+[2022.04.22-03.34.53:258][856]LogMaterial: Display: Missing cached shader map for material blinn18, compiling. 
+[2022.04.22-03.34.53:287][856]LogMaterial: Display: Missing cached shader map for material blinn38, compiling. 
+[2022.04.22-03.34.53:320][856]LogMaterial: Display: Missing cached shader map for material blinn11, compiling. 
+[2022.04.22-03.34.53:357][856]LogMaterial: Display: Missing cached shader map for material blinn20, compiling. 
+[2022.04.22-03.34.53:397][856]LogMaterial: Display: Missing cached shader map for material blinn26, compiling. 
+[2022.04.22-03.34.53:437][856]LogMaterial: Display: Missing cached shader map for material blinn3, compiling. 
+[2022.04.22-03.34.53:475][856]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2022.04.22-03.34.53:512][856]LogMaterial: Display: Missing cached shader map for material blinn16, compiling. 
+[2022.04.22-03.34.53:547][856]LogMaterial: Display: Missing cached shader map for material blinn31, compiling. 
+[2022.04.22-03.34.53:584][856]LogMaterial: Display: Missing cached shader map for material blinn33, compiling. 
+[2022.04.22-03.34.53:619][856]LogMaterial: Display: Missing cached shader map for material blinn21, compiling. 
+[2022.04.22-03.34.53:655][856]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2022.04.22-03.34.53:688][856]LogMaterial: Display: Missing cached shader map for material blinn34, compiling. 
+[2022.04.22-03.34.53:722][856]LogMaterial: Display: Missing cached shader map for material blinn23, compiling. 
+[2022.04.22-03.34.53:756][856]LogMaterial: Display: Missing cached shader map for material blinn19, compiling. 
+[2022.04.22-03.34.53:793][856]LogMaterial: Display: Missing cached shader map for material blinn24, compiling. 
+[2022.04.22-03.34.53:832][856]LogMaterial: Display: Missing cached shader map for material blinn35, compiling. 
+[2022.04.22-03.34.53:871][856]LogMaterial: Display: Missing cached shader map for material blinn25, compiling. 
+[2022.04.22-03.34.53:910][856]LogMaterial: Display: Missing cached shader map for material blinn15, compiling. 
+[2022.04.22-03.34.53:950][856]LogMaterial: Display: Missing cached shader map for material blinn7, compiling. 
+[2022.04.22-03.34.53:986][856]LogMaterial: Display: Missing cached shader map for material blinn10, compiling. 
+[2022.04.22-03.34.54:018][856]LogMaterial: Display: Missing cached shader map for material blinn12, compiling. 
+[2022.04.22-03.34.54:049][856]LogMaterial: Display: Missing cached shader map for material blinn13, compiling. 
+[2022.04.22-03.34.54:082][856]LogMaterial: Display: Missing cached shader map for material blinn27, compiling. 
+[2022.04.22-03.34.54:107][856]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 372
+[2022.04.22-03.34.54:113][856]LogMaterial: Display: Missing cached shader map for material blinn29, compiling. 
+[2022.04.22-03.34.54:148][856]LogMaterial: Display: Missing cached shader map for material blinn30, compiling. 
+[2022.04.22-03.34.54:156][856]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 374
+[2022.04.22-03.34.54:185][856]LogMaterial: Display: Missing cached shader map for material blinn32, compiling. 
+[2022.04.22-03.34.54:222][856]LogMaterial: Display: Missing cached shader map for material blinn14, compiling. 
+[2022.04.22-03.34.54:260][856]LogMaterial: Display: Missing cached shader map for material blinn28, compiling. 
+[2022.04.22-03.34.54:300][856]LogMaterial: Display: Missing cached shader map for material blinn9, compiling. 
+[2022.04.22-03.34.54:314][856]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 424
+[2022.04.22-03.34.54:338][856]LogMaterial: Display: Missing cached shader map for material blinn8, compiling. 
+[2022.04.22-03.34.54:372][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn39, compiling. 
+[2022.04.22-03.34.54:385][856]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 438
+[2022.04.22-03.34.54:408][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn24, compiling. 
+[2022.04.22-03.34.54:438][856]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 440
+[2022.04.22-03.34.54:439][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn19, compiling. 
+[2022.04.22-03.34.54:473][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn8, compiling. 
+[2022.04.22-03.34.54:491][856]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 454
+[2022.04.22-03.34.54:510][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn6, compiling. 
+[2022.04.22-03.34.54:545][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn38, compiling. 
+[2022.04.22-03.34.54:582][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn41, compiling. 
+[2022.04.22-03.34.54:620][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn7, compiling. 
+[2022.04.22-03.34.54:629][856]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 480
+[2022.04.22-03.34.54:658][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn20, compiling. 
+[2022.04.22-03.34.54:712][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn40, compiling. 
+[2022.04.22-03.34.54:722][856]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 494
+[2022.04.22-03.34.54:740][856]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 496
+[2022.04.22-03.34.54:744][856]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 486
+[2022.04.22-03.34.54:752][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn13, compiling. 
+[2022.04.22-03.34.54:790][856]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 488
+[2022.04.22-03.34.54:790][856]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 478
+[2022.04.22-03.34.54:790][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn22, compiling. 
+[2022.04.22-03.34.54:827][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn28, compiling. 
+[2022.04.22-03.34.54:862][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn5, compiling. 
+[2022.04.22-03.34.54:896][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn4, compiling. 
+[2022.04.22-03.34.54:934][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn18, compiling. 
+[2022.04.22-03.34.54:974][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn33, compiling. 
+[2022.04.22-03.34.55:012][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn35, compiling. 
+[2022.04.22-03.34.55:048][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn23, compiling. 
+[2022.04.22-03.34.55:085][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn3, compiling. 
+[2022.04.22-03.34.55:119][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn36, compiling. 
+[2022.04.22-03.34.55:155][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn25, compiling. 
+[2022.04.22-03.34.55:187][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn21, compiling. 
+[2022.04.22-03.34.55:223][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn26, compiling. 
+[2022.04.22-03.34.55:261][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn37, compiling. 
+[2022.04.22-03.34.55:297][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn27, compiling. 
+[2022.04.22-03.34.55:336][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn17, compiling. 
+[2022.04.22-03.34.55:374][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn9, compiling. 
+[2022.04.22-03.34.55:423][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn12, compiling. 
+[2022.04.22-03.34.55:462][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn14, compiling. 
+[2022.04.22-03.34.55:498][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn15, compiling. 
+[2022.04.22-03.34.55:533][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn29, compiling. 
+[2022.04.22-03.34.55:569][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn31, compiling. 
+[2022.04.22-03.34.55:604][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn32, compiling. 
+[2022.04.22-03.34.55:639][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn34, compiling. 
+[2022.04.22-03.34.55:685][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn16, compiling. 
+[2022.04.22-03.34.55:721][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn30, compiling. 
+[2022.04.22-03.34.55:759][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn11, compiling. 
+[2022.04.22-03.34.55:795][856]LogMaterial: Display: Missing cached shader map for material pasted__blinn10, compiling. 
+[2022.04.22-03.34.55:973][856]LogFbx: Display: Triangulating static mesh pasted__polySurface21
+[2022.04.22-03.34.59:802][856]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 804
+[2022.04.22-03.34.59:802][856]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 794
+[2022.04.22-03.34.59:912][856]LogStaticMesh: Building static mesh tyrell...
+[2022.04.22-03.35.01:266][856]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 784
+[2022.04.22-03.35.01:266][856]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 774
+[2022.04.22-03.35.01:266][856]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 764
+[2022.04.22-03.35.01:266][856]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 754
+[2022.04.22-03.35.01:266][856]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 744
+[2022.04.22-03.35.01:266][856]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 734
+[2022.04.22-03.35.01:266][856]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 724
+[2022.04.22-03.35.01:266][856]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 714
+[2022.04.22-03.35.01:266][856]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 704
+[2022.04.22-03.35.01:266][856]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 694
+[2022.04.22-03.35.01:950][856]LogStaticMesh: Built static mesh [2.04s] /Game/Props/Capstones/NewFolder/tyrell.tyrell
+[2022.04.22-03.35.02:426][856]LogStaticMesh: Warning: tyrell has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.22-03.35.02:426][856]LogStaticMesh: Warning: tyrell has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.22-03.35.02:906][856]FBXImport: FBX File Loading: Found name clash, node 'pasted__polySurface2' was renamed to 'pasted__polySurface21' 
+[2022.04.22-03.35.02:906][856]FBXImport: Warning: tyrell has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.22-03.35.02:906][856]FBXImport: Warning: tyrell has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.22-03.35.03:439][856]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\ehip.fbx)
+[2022.04.22-03.35.03:461][856]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\ehip.fbx
+[2022.04.22-03.35.03:509][856]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.35.03:514][856]LogMaterial: Display: Missing cached shader map for material blinn40, compiling. 
+[2022.04.22-03.35.03:548][856]LogMaterial: Display: Missing cached shader map for material blinn41, compiling. 
+[2022.04.22-03.35.03:582][856]LogMaterial: Display: Missing cached shader map for material blinn42, compiling. 
+[2022.04.22-03.35.03:617][856]LogMaterial: Display: Missing cached shader map for material blinn43, compiling. 
+[2022.04.22-03.35.03:656][856]LogMaterial: Display: Missing cached shader map for material blinn44, compiling. 
+[2022.04.22-03.35.03:705][856]LogFbx: Display: Triangulating static mesh polySurface2
+[2022.04.22-03.35.04:768][856]LogStaticMesh: Building static mesh ehip...
+[2022.04.22-03.35.05:122][856]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 744
+[2022.04.22-03.35.05:337][856]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 734
+[2022.04.22-03.35.05:367][856]LogStaticMesh: Built static mesh [0.60s] /Game/Props/Capstones/NewFolder/ehip.ehip
+[2022.04.22-03.35.05:660][856]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 724
+[2022.04.22-03.35.05:660][856]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 714
+[2022.04.22-03.35.05:660][856]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\elontogether.fbx)
+[2022.04.22-03.35.05:698][856]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\elontogether.fbx
+[2022.04.22-03.35.05:805][856]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 704
+[2022.04.22-03.35.05:805][856]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 694
+[2022.04.22-03.35.05:805][856]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.35.05:811][856]LogMaterial: Display: Missing cached shader map for material blinn45, compiling. 
+[2022.04.22-03.35.05:843][856]LogMaterial: Display: Missing cached shader map for material blinn46, compiling. 
+[2022.04.22-03.35.05:975][856]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 708
+[2022.04.22-03.35.05:975][856]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 698
+[2022.04.22-03.35.05:975][856]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 688
+[2022.04.22-03.35.05:975][856]LogFbx: Display: Triangulating static mesh polySurface2
+[2022.04.22-03.35.07:983][856]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 678
+[2022.04.22-03.35.07:983][856]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 668
+[2022.04.22-03.35.07:983][856]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 658
+[2022.04.22-03.35.08:728][856]LogStaticMesh: Building static mesh elontogether...
+[2022.04.22-03.35.09:968][856]LogStaticMesh: Built static mesh [1.24s] /Game/Props/Capstones/NewFolder/elontogether.elontogether
+[2022.04.22-03.35.10:827][856]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 648
+[2022.04.22-03.35.10:831][856]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\masfit.fbx)
+[2022.04.22-03.35.10:859][856]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\masfit.fbx
+[2022.04.22-03.35.10:881][856]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.35.10:885][856]LogMaterial: Display: Missing cached shader map for material blinn47, compiling. 
+[2022.04.22-03.35.10:922][856]LogMaterial: Display: Missing cached shader map for material blinn48, compiling. 
+[2022.04.22-03.35.10:949][856]LogFbx: Display: Triangulating static mesh polySurface1
+[2022.04.22-03.35.11:293][856]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 662
+[2022.04.22-03.35.11:293][856]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 652
+[2022.04.22-03.35.11:293][856]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 642
+[2022.04.22-03.35.11:293][856]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 632
+[2022.04.22-03.35.11:398][856]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 622
+[2022.04.22-03.35.11:399][856]LogStaticMesh: Building static mesh masfit...
+[2022.04.22-03.35.11:520][856]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 612
+[2022.04.22-03.35.11:520][856]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 602
+[2022.04.22-03.35.11:597][856]LogStaticMesh: Built static mesh [0.20s] /Game/Props/Capstones/NewFolder/masfit.masfit
+[2022.04.22-03.35.11:650][856]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\mothernature.fbx)
+[2022.04.22-03.35.11:688][856]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\mothernature.fbx
+[2022.04.22-03.35.11:705][856]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.35.11:708][856]LogMaterial: Display: Missing cached shader map for material blinn49, compiling. 
+[2022.04.22-03.35.11:733][856]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 604
+[2022.04.22-03.35.11:748][856]LogMaterial: Display: Missing cached shader map for material blinn50, compiling. 
+[2022.04.22-03.35.11:772][856]LogFbx: Display: Triangulating static mesh polySurface1
+[2022.04.22-03.35.11:942][856]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 606
+[2022.04.22-03.35.11:942][856]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 596
+[2022.04.22-03.35.11:942][856]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 586
+[2022.04.22-03.35.11:989][856]LogStaticMesh: Building static mesh mothernature...
+[2022.04.22-03.35.12:085][856]LogStaticMesh: Built static mesh [0.10s] /Game/Props/Capstones/NewFolder/mothernature.mothernature
+[2022.04.22-03.35.12:092][856]LogStaticMesh: Warning: mothernature has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.22-03.35.12:093][856]LogStaticMesh: Warning: mothernature has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.22-03.35.12:107][856]FBXImport: Warning: mothernature has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.22-03.35.12:107][856]FBXImport: Warning: mothernature has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.22-03.35.12:123][856]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\safeski.fbx)
+[2022.04.22-03.35.12:138][856]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\safeski.fbx
+[2022.04.22-03.35.12:202][856]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.35.12:207][856]LogMaterial: Display: Missing cached shader map for material blinn51, compiling. 
+[2022.04.22-03.35.12:242][856]LogMaterial: Display: Missing cached shader map for material blinn52, compiling. 
+[2022.04.22-03.35.12:309][856]LogFbx: Display: Triangulating static mesh polySurface1
+[2022.04.22-03.35.13:787][856]LogStaticMesh: Building static mesh safeski...
+[2022.04.22-03.35.14:493][856]LogStaticMesh: Built static mesh [0.71s] /Game/Props/Capstones/NewFolder/safeski.safeski
+[2022.04.22-03.35.14:859][856]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\teachme.fbx)
+[2022.04.22-03.35.14:891][856]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\teachme.fbx
+[2022.04.22-03.35.14:934][856]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.35.14:944][856]LogMaterial: Display: Missing cached shader map for material blinn53, compiling. 
+[2022.04.22-03.35.14:982][856]LogMaterial: Display: Missing cached shader map for material blinn54, compiling. 
+[2022.04.22-03.35.15:019][856]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2022.04.22-03.35.15:059][856]LogFbx: Display: Triangulating static mesh polySurface1
+[2022.04.22-03.35.15:973][856]LogStaticMesh: Building static mesh teachme...
+[2022.04.22-03.35.16:411][856]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 636
+[2022.04.22-03.35.16:411][856]LogStaticMesh: Built static mesh [0.44s] /Game/Props/Capstones/NewFolder/teachme.teachme
+[2022.04.22-03.35.16:666][856]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 626
+[2022.04.22-03.35.16:666][856]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 616
+[2022.04.22-03.35.16:666][856]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\thereelyou.fbx)
+[2022.04.22-03.35.16:689][856]LogFbx: Loading FBX Scene from C:\Users\zfert\Games\Capstone\Long\Long\LogoMayaStuff\thereelyou.fbx
+[2022.04.22-03.35.16:720][856]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.22-03.35.16:726][856]LogMaterial: Display: Missing cached shader map for material blinn55, compiling. 
+[2022.04.22-03.35.16:762][856]LogMaterial: Display: Missing cached shader map for material blinn56, compiling. 
+[2022.04.22-03.35.16:794][856]LogFbx: Display: Triangulating static mesh polySurface1
+[2022.04.22-03.35.17:261][856]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 630
+[2022.04.22-03.35.17:261][856]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 620
+[2022.04.22-03.35.17:261][856]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 610
+[2022.04.22-03.35.17:261][856]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 600
+[2022.04.22-03.35.17:261][856]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 590
+[2022.04.22-03.35.17:397][856]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 580
+[2022.04.22-03.35.17:397][856]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 570
+[2022.04.22-03.35.17:398][856]LogStaticMesh: Building static mesh thereelyou...
+[2022.04.22-03.35.17:567][856]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 560
+[2022.04.22-03.35.17:715][856]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 550
+[2022.04.22-03.35.17:716][856]LogStaticMesh: Built static mesh [0.32s] /Game/Props/Capstones/NewFolder/thereelyou.thereelyou
+[2022.04.22-03.35.20:881][946]LogSlate: Window 'Message Log' being destroyed
+[2022.04.22-03.35.20:918][946]LogSlate: Window 'Message Log' being destroyed
+[2022.04.22-03.35.22:855][ 22]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 540
+[2022.04.22-03.35.23:040][ 29]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 530
+[2022.04.22-03.35.23:085][ 31]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 520
+[2022.04.22-03.35.23:216][ 36]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 510
+[2022.04.22-03.35.23:404][ 40]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 500
+[2022.04.22-03.35.23:405][ 40]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 490
+[2022.04.22-03.35.23:560][ 43]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 480
+[2022.04.22-03.35.23:603][ 44]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 470
+[2022.04.22-03.35.23:789][ 48]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 460
+[2022.04.22-03.35.23:903][ 50]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 450
+[2022.04.22-03.35.23:964][ 52]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 440
+[2022.04.22-03.35.24:008][ 55]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 430
+[2022.04.22-03.35.28:534][220]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Props/Capstones/NewFolder/tyrell.tyrell
+[2022.04.22-03.35.29:726][221]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 420
+[2022.04.22-03.35.29:726][221]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 410
+[2022.04.22-03.35.29:726][221]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 400
+[2022.04.22-03.35.29:726][221]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 390
+[2022.04.22-03.35.29:726][221]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 380
+[2022.04.22-03.35.29:797][221]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 370
+[2022.04.22-03.35.29:934][221]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 360
+[2022.04.22-03.35.30:132][221]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 350
+[2022.04.22-03.35.30:179][221]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 340
+[2022.04.22-03.35.30:644][222]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 330
+[2022.04.22-03.35.30:644][222]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 320
+[2022.04.22-03.35.30:644][222]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 310
+[2022.04.22-03.35.34:487][488]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-03.35.34:488][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-03.35.35:488][579]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 300
+[2022.04.22-03.35.35:636][595]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 290
+[2022.04.22-03.35.35:786][605]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 280
+[2022.04.22-03.35.36:103][625]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 270
+[2022.04.22-03.35.36:187][629]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 260
+[2022.04.22-03.35.36:403][645]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 250
+[2022.04.22-03.35.36:490][648]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 240
+[2022.04.22-03.35.36:602][651]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 230
+[2022.04.22-03.35.36:845][668]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 220
+[2022.04.22-03.35.36:871][670]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 210
+[2022.04.22-03.35.36:998][680]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 200
+[2022.04.22-03.35.37:410][708]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 190
+[2022.04.22-03.35.42:621][866]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 180
+[2022.04.22-03.35.42:760][871]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 170
+[2022.04.22-03.35.43:501][887]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 160
+[2022.04.22-03.35.43:563][888]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 150
+[2022.04.22-03.35.43:602][889]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 140
+[2022.04.22-03.35.43:656][890]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 130
+[2022.04.22-03.35.43:758][893]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 120
+[2022.04.22-03.35.43:758][893]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 110
+[2022.04.22-03.35.44:174][901]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 100
+[2022.04.22-03.35.44:371][904]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 91
+[2022.04.22-03.35.44:466][906]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 83
+[2022.04.22-03.35.44:745][913]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 76
+[2022.04.22-03.35.49:620][ 43]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 69
+[2022.04.22-03.35.49:761][ 48]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 63
+[2022.04.22-03.35.50:199][ 58]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 57
+[2022.04.22-03.35.50:585][ 70]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 52
+[2022.04.22-03.35.50:585][ 70]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 47
+[2022.04.22-03.35.50:674][ 73]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 42
+[2022.04.22-03.35.50:824][ 77]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 38
+[2022.04.22-03.35.51:017][ 80]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 34
+[2022.04.22-03.35.51:094][ 81]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 31
+[2022.04.22-03.35.51:184][ 84]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 28
+[2022.04.22-03.35.51:260][ 86]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 25
+[2022.04.22-03.35.52:059][110]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2022.04.22-03.35.53:138][146]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2022.04.22-03.35.53:198][148]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2022.04.22-03.35.53:361][154]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.04.22-03.35.53:361][154]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2022.04.22-03.35.53:384][155]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2022.04.22-03.35.53:401][156]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2022.04.22-03.35.53:544][159]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2022.04.22-03.35.53:843][169]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2022.04.22-03.35.53:871][170]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2022.04.22-03.35.53:875][170]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2022.04.22-03.35.54:019][176]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2022.04.22-03.35.54:019][176]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.04.22-03.35.54:302][185]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2022.04.22-03.35.54:358][187]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2022.04.22-03.35.54:406][188]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.04.22-03.36.02:886][978]LogActorFactory: Actor Factory created safeski
+[2022.04.22-03.36.03:770][ 69]LogActorFactory: Actor Factory created safeski
+[2022.04.22-03.36.06:767][381]Cmd: DELETE
+[2022.04.22-03.36.06:778][381]Cmd: ACTOR DELETE
+[2022.04.22-03.36.06:963][381]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.22-03.36.06:967][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.22-03.36.06:971][381]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.04.22-03.36.07:566][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (safeski)
+[2022.04.22-03.36.15:569][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.22-03.36.28:507][ 69]LogSlate: Window 'Replace References?' being destroyed
+[2022.04.22-03.36.28:511][ 69]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with safeski; and then delete them.
+
+Are you sure?
+[2022.04.22-03.36.28:511][ 69]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.22-03.36.30:104][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.04.22-03.36.31:915][ 69]LogSlate: Window 'Save Content' being destroyed
+[2022.04.22-03.36.31:972][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Long" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.22-03.36.31:984][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.04.22-03.36.32:146][ 69]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/Long01899A9E427CA9BBC02FF48E43FEE55D.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap'
+[2022.04.22-03.36.32:153][ 69]LogFileHelpers: Saving map 'Long' took 0.186
+[2022.04.22-03.36.32:153][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Capstones/safeski" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/safeski.uasset" SILENT=true
+[2022.04.22-03.36.32:153][ 69]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/safeski2C35B51C46E38E11B63297BFE8B63A88.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/safeski.uasset'
+[2022.04.22-03.36.32:197][ 69]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.22-03.36.32:197][ 69]LogContentValidation: Display: Validating World /Game/Maps/Long.Long
+[2022.04.22-03.36.32:198][ 69]LogContentValidation: Display: Validating ObjectRedirector /Game/Props/Capstones/safeski.safeski
+[2022.04.22-03.36.51:352][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.22-03.36.58:217][961]LogSlate: Window 'Replace References?' being destroyed
+[2022.04.22-03.36.58:222][961]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with ehip; and then delete them.
+
+Are you sure?
+[2022.04.22-03.36.58:222][961]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.22-03.36.58:300][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.04.22-03.36.59:737][961]LogSlate: Window 'Save Content' being destroyed
+[2022.04.22-03.36.59:770][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Capstones/ehip" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/ehip.uasset" SILENT=true
+[2022.04.22-03.36.59:771][961]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/ehipBDE093264A64204F88DA069ED39A5BE6.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/ehip.uasset'
+[2022.04.22-03.36.59:772][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Long" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.22-03.36.59:774][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.04.22-03.36.59:828][961]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/Long0F50D8C54BD8D23F5EBACE95FA9EB715.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap'
+[2022.04.22-03.36.59:834][961]LogFileHelpers: Saving map 'Long' took 0.063
+[2022.04.22-03.36.59:864][961]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.22-03.36.59:864][961]LogContentValidation: Display: Validating World /Game/Maps/Long.Long
+[2022.04.22-03.36.59:864][961]LogContentValidation: Display: Validating ObjectRedirector /Game/Props/Capstones/ehip.ehip
+[2022.04.22-03.37.14:084][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.04.22-03.37.21:214][498]LogSlate: Window 'Replace References?' being destroyed
+[2022.04.22-03.37.21:219][498]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with teachme; and then delete them.
+
+Are you sure?
+[2022.04.22-03.37.21:219][498]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.22-03.37.21:297][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.22-03.37.22:679][498]LogSlate: Window 'Save Content' being destroyed
+[2022.04.22-03.37.22:700][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Long" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.22-03.37.22:702][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2022.04.22-03.37.22:757][498]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/Long0E597C5643D82A206DBF89B4F504BB3E.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap'
+[2022.04.22-03.37.22:763][498]LogFileHelpers: Saving map 'Long' took 0.064
+[2022.04.22-03.37.22:763][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Capstones/teachme" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/teachme.uasset" SILENT=true
+[2022.04.22-03.37.22:764][498]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/teachmeDCECB7924D3EC3AE7B659A9EF4DA3AEA.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/teachme.uasset'
+[2022.04.22-03.37.22:797][498]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.22-03.37.22:797][498]LogContentValidation: Display: Validating World /Game/Maps/Long.Long
+[2022.04.22-03.37.22:797][498]LogContentValidation: Display: Validating ObjectRedirector /Game/Props/Capstones/teachme.teachme
+[2022.04.22-03.37.26:237][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (teachme)
+[2022.04.22-03.37.38:196][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.22-03.37.48:530][ 50]LogSlate: Window 'Replace References?' being destroyed
+[2022.04.22-03.37.48:534][ 50]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with thereelyou; and then delete them.
+
+Are you sure?
+[2022.04.22-03.37.48:534][ 50]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.22-03.37.48:624][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.22-03.37.50:324][ 50]LogSlate: Window 'Save Content' being destroyed
+[2022.04.22-03.37.50:346][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Long" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.22-03.37.50:348][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2022.04.22-03.37.50:403][ 50]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/Long21048A5246DBC05653ED97BA1103EAA7.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap'
+[2022.04.22-03.37.50:410][ 50]LogFileHelpers: Saving map 'Long' took 0.065
+[2022.04.22-03.37.50:410][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Capstones/thereelyou" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/thereelyou.uasset" SILENT=true
+[2022.04.22-03.37.50:411][ 50]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/thereelyou60E1923F447E7B8DCC4DCBAA3F68C03A.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/thereelyou.uasset'
+[2022.04.22-03.37.50:442][ 50]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.22-03.37.50:443][ 50]LogContentValidation: Display: Validating ObjectRedirector /Game/Props/Capstones/thereelyou.thereelyou
+[2022.04.22-03.37.50:443][ 50]LogContentValidation: Display: Validating World /Game/Maps/Long.Long
+[2022.04.22-03.37.52:654][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (labtiled)
+[2022.04.22-03.37.53:199][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (thereelyou)
+[2022.04.22-03.38.16:918][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.04.22-03.38.24:437][868]LogSlate: Window 'Replace References?' being destroyed
+[2022.04.22-03.38.24:441][868]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with elontogether; and then delete them.
+
+Are you sure?
+[2022.04.22-03.38.24:441][868]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.22-03.38.24:529][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.04.22-03.38.25:770][868]LogSlate: Window 'Save Content' being destroyed
+[2022.04.22-03.38.25:806][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Capstones/elontogether" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/elontogether.uasset" SILENT=true
+[2022.04.22-03.38.25:807][868]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/elontogether695D60F743C2BAD0D7D0018D9D1E68A4.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/elontogether.uasset'
+[2022.04.22-03.38.25:808][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Long" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.22-03.38.25:811][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.04.22-03.38.25:864][868]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/Long8E0C337845B66E86664175B686E2DA55.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap'
+[2022.04.22-03.38.25:870][868]LogFileHelpers: Saving map 'Long' took 0.062
+[2022.04.22-03.38.25:896][868]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.22-03.38.25:897][868]LogContentValidation: Display: Validating ObjectRedirector /Game/Props/Capstones/elontogether.elontogether
+[2022.04.22-03.38.25:897][868]LogContentValidation: Display: Validating World /Game/Maps/Long.Long
+[2022.04.22-03.38.34:740][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mothernature)
+[2022.04.22-03.38.38:248][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.04.22-03.38.46:681][165]LogSlate: Window 'Replace References?' being destroyed
+[2022.04.22-03.38.46:685][165]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with mothernature; and then delete them.
+
+Are you sure?
+[2022.04.22-03.38.46:685][165]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.22-03.38.46:776][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.04.22-03.38.47:901][165]LogSlate: Window 'Save Content' being destroyed
+[2022.04.22-03.38.47:931][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Long" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.22-03.38.47:934][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.04.22-03.38.47:988][165]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/Long97D86E1D4C7CB1EF5B420C81147810B9.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap'
+[2022.04.22-03.38.47:995][165]LogFileHelpers: Saving map 'Long' took 0.064
+[2022.04.22-03.38.47:996][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Capstones/mothernature" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/mothernature.uasset" SILENT=true
+[2022.04.22-03.38.47:996][165]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/mothernature326F46424D7C99547D4F0A92D206DE99.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/mothernature.uasset'
+[2022.04.22-03.38.48:026][165]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.22-03.38.48:026][165]LogContentValidation: Display: Validating ObjectRedirector /Game/Props/Capstones/mothernature.mothernature
+[2022.04.22-03.38.48:026][165]LogContentValidation: Display: Validating World /Game/Maps/Long.Long
+[2022.04.22-03.38.58:875][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.22-03.39.04:755][318]LogSlate: Window 'Replace References?' being destroyed
+[2022.04.22-03.39.04:759][318]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with masfit; and then delete them.
+
+Are you sure?
+[2022.04.22-03.39.04:759][318]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.22-03.39.04:840][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.04.22-03.39.05:894][318]LogSlate: Window 'Save Content' being destroyed
+[2022.04.22-03.39.05:930][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Long" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.22-03.39.05:933][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2022.04.22-03.39.05:986][318]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/Long94AF23524BE471A39B7B8986C9F4C4D0.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap'
+[2022.04.22-03.39.05:992][318]LogFileHelpers: Saving map 'Long' took 0.062
+[2022.04.22-03.39.05:992][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Capstones/masfit" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/masfit.uasset" SILENT=true
+[2022.04.22-03.39.05:993][318]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/masfitC3787F644EFED452B8190F8090734E59.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/masfit.uasset'
+[2022.04.22-03.39.06:022][318]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.22-03.39.06:022][318]LogContentValidation: Display: Validating ObjectRedirector /Game/Props/Capstones/masfit.masfit
+[2022.04.22-03.39.06:022][318]LogContentValidation: Display: Validating World /Game/Maps/Long.Long
+[2022.04.22-03.39.10:457][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tyrell)
+[2022.04.22-03.39.13:606][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.04.22-03.39.19:748][ 79]LogSlate: Window 'Replace References?' being destroyed
+[2022.04.22-03.39.19:752][ 79]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with tyrell; and then delete them.
+
+Are you sure?
+[2022.04.22-03.39.19:752][ 79]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.22-03.39.19:833][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.04.22-03.39.20:923][ 79]LogSlate: Window 'Save Content' being destroyed
+[2022.04.22-03.39.20:949][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Long" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.22-03.39.20:952][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.04.22-03.39.21:004][ 79]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/Long18DBFBCE428F083FD8805E9CEFC978FC.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Maps/Long.umap'
+[2022.04.22-03.39.21:010][ 79]LogFileHelpers: Saving map 'Long' took 0.061
+[2022.04.22-03.39.21:010][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Capstones/tyrell" FILE="C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/tyrell.uasset" SILENT=true
+[2022.04.22-03.39.21:011][ 79]LogSavePackage: Moving 'C:/Users/zfert/Games/Capstone/Long/Long/Saved/tyrellCB95CEF145DC413BFFA75FBFDC8CC682.tmp' to 'C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/tyrell.uasset'
+[2022.04.22-03.39.21:045][ 79]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.22-03.39.21:045][ 79]LogContentValidation: Display: Validating ObjectRedirector /Game/Props/Capstones/tyrell.tyrell
+[2022.04.22-03.39.21:045][ 79]LogContentValidation: Display: Validating World /Game/Maps/Long.Long
+[2022.04.22-03.39.36:232][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.22-03.39.37:533][745]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.22-03.39.37:607][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.22-03.39.37:610][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2022.04.22-03.39.37:613][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.04.22-03.39.37:615][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2022.04.22-03.39.37:618][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.04.22-03.39.37:621][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.04.22-03.39.37:624][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2022.04.22-03.39.37:626][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.04.22-03.39.37:629][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.04.22-03.39.37:632][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.04.22-03.39.37:635][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.04.22-03.39.37:638][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.04.22-03.39.37:641][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2022.04.22-03.39.37:644][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2022.04.22-03.39.37:647][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2022.04.22-03.39.37:650][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.04.22-03.39.37:653][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.04.22-03.39.37:656][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2022.04.22-03.39.37:666][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.04.22-03.39.37:669][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.04.22-03.39.52:333][724]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.04.22-03.39.53:528][724]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.194 s
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: === Handled ensure: ===
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: 
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: Cannot remove redirection from /Game/Props/Capstones/ehip.ehip, it was not registered
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: Stack: 
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffaeab06988 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffaea6d8a71 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffb1a8c4b80 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa9a2cee07 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa9a2ff0bd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa912fe52f UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa9129fd9a UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa91318b02 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa912e4a02 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa76d45e38 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa76d462c5 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa76d07d60 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa91a7a52f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa91ab550b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa91b11ccd UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa9e53ee15 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa9e545600 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa9e51b807 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa9e5b859e UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa9e5d071e UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa9e546d75 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa9e4146be UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa9e497f14 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa9e480337 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffa9e473632 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffb2338bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffb23379197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffb2338e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffb23374310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffb43a91c4c USER32.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffb43a90ea6 USER32.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffb2338f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ff686f48848 UE4Editor.exe!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ff686f6117c UE4Editor.exe!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ff686f6125a UE4Editor.exe!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ff686f752bd UE4Editor.exe!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ff686f77fea UE4Editor.exe!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffb435854e0 KERNEL32.DLL!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: [Callstack] 0x00007ffb4486485b ntdll.dll!UnknownFunction []
+[2022.04.22-03.39.53:534][724]LogOutputDevice: Error: 
