@@ -170,6 +170,21 @@
 			"ShaderMapHash": "6CDD0D67BE2F0A1AEAFF29AA516B67EADD0D23CB",
 			"Assets": [
 				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn73.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn72.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn48.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn47.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn46.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn45.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn44.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn43.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn42.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn41.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn40.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/lambert3.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn59.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn58.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn57.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn9.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn8.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn7.uasset",
@@ -182,9 +197,6 @@
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn38.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn37.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn36.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn35.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn24.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn25.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn26.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn27.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn28.uasset",
@@ -204,6 +216,8 @@
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn6.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn7.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn8.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn9.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/lambert1.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn1.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn10.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn11.uasset",
@@ -221,51 +235,52 @@
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn21.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn22.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn23.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/lambert1.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn10.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn12.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn24.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn25.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn11.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn13.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn14.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn15.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn16.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn17.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn11.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn18.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn20.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn12.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn19.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn21.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn22.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn23.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn19.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn24.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn26.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn20.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn25.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn27.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn28.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn29.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn3.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn30.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn31.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn25.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn33.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn32.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn9.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn26.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn34.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn33.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn10.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn35.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn55.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn56.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn53.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn54.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/lambert2.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn45.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn46.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn77.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn78.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn45.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn67.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn68.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn69.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn70.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn71.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/lambert6.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/ss1.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/ss2.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/ss1.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn52.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn51.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/lambert7.uasset",
@@ -274,21 +289,6 @@
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn80.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn50.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn49.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn73.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn72.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn48.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn47.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn46.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn45.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn44.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn43.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn42.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn41.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn40.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/lambert3.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn59.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn58.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn57.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Uncolored/standardSurface2.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Uncolored/lambert2.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Uncolored/lambert1.uasset",
@@ -421,7 +421,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E4D6D7CC4D0CF223527E6E419ED3F3E61D31360E",
+			"ShaderMapHash": "50CA5D2B679E58DCF117AA1496C58029ECB9571B",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
 			]
@@ -432,6 +432,7 @@
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/lambert1.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/small_shelves.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/White.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/Orange.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/lambert2.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/blinn1.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/DarkGray.uasset",
@@ -439,7 +440,6 @@
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/OffWhite.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/Brown.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/pasted__phong5.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/Orange.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/typeBlinn.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/lambert5.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/lambert4.uasset"
@@ -455,23 +455,23 @@
 			"ShaderMapHash": "7DCEC805F3B065E18E30548E396F52A5BBE3CFF8",
 			"Assets": [
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Long_chair_2_top__1__Mat.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Couch_Lobby_Bottom_Mat.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Couch_Lobby_Top_Mat.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Wooden_Wall_Classroom_Mat.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Tile_Floor1_Mat.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Round_Chair_Red_Mat.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Round_Chair_Green_Mat.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Round_Chair_Blue_Mat.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Carpet_floor_hallway_2_Mat.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Chair_Classroom_Professor_Mat.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Chair_with_tiny_table_seat_Mat.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Chair_with_tiny_table_top_1_Mat.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Long_chair_top_Mat.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Carpet_Floor_Classroom_Mat.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Carpet_Floor_Lobby_Mat.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Couch_Lobby_Bottom_Mat.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Couch_Lobby_Top_Mat.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Chair_Classroom_Students_Back_Mat.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Chair_Classroom_Students_Seat_Mat.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Chair_Classroom2_Students_Mat.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Wooden_Wall_Classroom_Mat.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Tile_Floor1_Mat.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Round_Chair_Red_Mat.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Round_Chair_Green_Mat.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Round_Chair_Blue_Mat.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Carpet_floor_hallway_2_Mat.uasset"
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/Chair_Classroom2_Students_Mat.uasset"
 			]
 		},
 		{
@@ -499,16 +499,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B377F2C466685D8337499DEB2ADC1465F3B5A0F1",
+			"ShaderMapHash": "29882062D7807F7564D53CEF67CF271FEFE8835A",
 			"Assets": [
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_Glass.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassRed.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassFrostedRed.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassFrosted.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassGreen.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassFrostedGreen.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassFrostedBlue.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassBlue.uasset"
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/Yellow.uasset"
 			]
 		},
 		{
@@ -524,21 +517,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C3BAE99B38EA779338037C61ADB91CEE2569A548",
+			"ShaderMapHash": "7328E0A1CE61B8C3B280B3F2EF8D6BB6C8B39FD5",
 			"Assets": [
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/Red.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "027E63F08C71F99F5458C28E9FE88B7AE0CAF8A8",
-			"Assets": [
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/Light.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "EB13A0FF816BB894484DEA2C2F878D6801725344",
-			"Assets": [
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/Blue.uasset"
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/tkynejer_2K_Albedo_Mat.uasset"
 			]
 		},
 		{
@@ -550,55 +531,37 @@
 		{
 			"ShaderMapHash": "AD3058810825BB855176512149010DB9967A8631",
 			"Assets": [
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/20220510_123021_Mat.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/PictureStuff/IMG_1848_copy_Mat.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/PictureStuff/IMG_1845_copy_Mat.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/PictureStuff/IMG_1843_copy_Mat.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Materials/Long_Mat.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/PictureStuff/Images_iMedia_in_Puerto_Rico_V_Mat.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/PictureStuff/Images_iMedia_in_Puerto_Rico_Mat.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/PictureStuff/Images_iMedia_in_Puerto_Rico4_Mat.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/PictureStuff/Images_iMedia_in_Puerto_Rico3_Mat.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/PictureStuff/Images_iMedia_in_Puerto_Rico2_Mat.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/microwave2_Mat.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/20220510_123021_Mat.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/PictureStuff/IMG_1848_copy_Mat.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/PictureStuff/IMG_1845_copy_Mat.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/PictureStuff/IMG_1843_copy_Mat.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Materials/Long_Mat.uasset",
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Materials/Map_Capstone_Mat.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "CA043011157D3F0E5F3B4FCE1F0A4C84C560655E",
+			"ShaderMapHash": "C3BAE99B38EA779338037C61ADB91CEE2569A548",
 			"Assets": [
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/Red.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "FA0F9FBB2422DF6B4018C53F9B0FC702112D5E66",
+			"ShaderMapHash": "B377F2C466685D8337499DEB2ADC1465F3B5A0F1",
 			"Assets": [
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/RedShiny.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "7F83AC4F630484DCDBBCEA3D75F9227A2C34B742",
-			"Assets": [
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "0674DB26DDBC44A3FEDCC4A2112F48FA79E49431",
-			"Assets": [
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn47.uasset",
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn79.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "29882062D7807F7564D53CEF67CF271FEFE8835A",
-			"Assets": [
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/Yellow.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "7328E0A1CE61B8C3B280B3F2EF8D6BB6C8B39FD5",
-			"Assets": [
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/tkynejer_2K_Albedo_Mat.uasset"
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassRed.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassGreen.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassFrostedRed.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassFrostedGreen.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassFrostedBlue.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassBlue.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_Glass.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassFrosted.uasset"
 			]
 		},
 		{
@@ -621,9 +584,52 @@
 			]
 		},
 		{
+			"ShaderMapHash": "027E63F08C71F99F5458C28E9FE88B7AE0CAF8A8",
+			"Assets": [
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/Light.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "C1BB0C925FB641C33741AF20A9ACE8C6C33423A0",
 			"Assets": [
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/Green.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EB13A0FF816BB894484DEA2C2F878D6801725344",
+			"Assets": [
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/Blue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CA043011157D3F0E5F3B4FCE1F0A4C84C560655E",
+			"Assets": [
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "613145C19906F9F2D4F39F7088FC55354DA235E8",
+			"Assets": [
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassFrostedYellow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FA0F9FBB2422DF6B4018C53F9B0FC702112D5E66",
+			"Assets": [
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/RedShiny.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7F83AC4F630484DCDBBCEA3D75F9227A2C34B742",
+			"Assets": [
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0674DB26DDBC44A3FEDCC4A2112F48FA79E49431",
+			"Assets": [
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/pasted__blinn47.uasset",
+				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Capstones/Mats/blinn79.uasset"
 			]
 		},
 		{
@@ -1046,12 +1052,6 @@
 			"ShaderMapHash": "62E4BDFC5A9EA0213436306B87B8BC6C4C14F371",
 			"Assets": [
 				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Textures/basketball-texture-free-vector_Mat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "613145C19906F9F2D4F39F7088FC55354DA235E8",
-			"Assets": [
-				"C:/Users/zfert/Games/Capstone/Long/Long/Content/Props/Mats/M_GlassFrostedYellow.uasset"
 			]
 		}
 	]
